@@ -1,0 +1,938 @@
+[
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/1q14.jpg",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/CO14Q01.mp3?_=1",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/2q14.jpg",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/CO14Q02.mp3?_=2",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/3q14.jpg",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q03.mp3?_=3",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/4q14.jpg",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q04.mp3?_=4",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q05.mp3?_=5",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q06.mp3?_=6",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/CO14Q07.mp3?_=7",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/CO14Q08.mp3?_=8",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q09.mp3?_=9",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Attendre la réponse.",
+        "value": 1
+      },
+      {
+        "label": "B Compléter son dossier.",
+        "value": 2
+      },
+      {
+        "label": "C Demander un passeport.",
+        "value": 3
+      },
+      {
+        "label": "D Envoyer son inscription.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q10.mp3?_=10",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De cinéma.",
+        "value": 1
+      },
+      {
+        "label": "B De lecture.",
+        "value": 2
+      },
+      {
+        "label": "C De musique.",
+        "value": 3
+      },
+      {
+        "label": "D De théâtre.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/CO14Q11.mp3?_=11",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il y a un service internet.",
+        "value": 1
+      },
+      {
+        "label": "B Le placement est libre.",
+        "value": 2
+      },
+      {
+        "label": "C On y propose des repas.",
+        "value": 3
+      },
+      {
+        "label": "D Son personnel est bilingue.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q12.mp3?_=12",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La date de départ.",
+        "value": 1
+      },
+      {
+        "label": "B La durée du voyage.",
+        "value": 2
+      },
+      {
+        "label": "C La situation de l’hôtel.",
+        "value": 3
+      },
+      {
+        "label": "D Le prix du séjour.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q13.mp3?_=13",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A II n’aime pas l’œuvre de ce peintre.",
+        "value": 1
+      },
+      {
+        "label": "B La présentation des tableaux lui a déplu.",
+        "value": 2
+      },
+      {
+        "label": "C Il a trouvé qu’il y avait trop de visiteurs.",
+        "value": 3
+      },
+      {
+        "label": "D Il s’est ennuyé en faisant la queue.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q14.mp3?_=14",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Pour lui présenter un produit.",
+        "value": 1
+      },
+      {
+        "label": "B Pour organiser un voyage.",
+        "value": 2
+      },
+      {
+        "label": "C Pour suivre une formation.",
+        "value": 3
+      },
+      {
+        "label": "D Pour visiter Lyon avec lui.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q15.mp3?_=15",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Son caractère.",
+        "value": 1
+      },
+      {
+        "label": "B Ses diplômes.",
+        "value": 2
+      },
+      {
+        "label": "C Son expérience.",
+        "value": 3
+      },
+      {
+        "label": "D Ses motivations.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q16.mp3?_=16",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Son âge.",
+        "value": 1
+      },
+      {
+        "label": "B Sa motivation.",
+        "value": 2
+      },
+      {
+        "label": "C Son expérience.",
+        "value": 3
+      },
+      {
+        "label": "D Sa qualification.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q17.mp3?_=17",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A  Qu’elle l’avait oublié en vacances.",
+        "value": 1
+      },
+      {
+        "label": "B Qu’un collègue l’avait consulté.",
+        "value": 2
+      },
+      {
+        "label": "C Que son assistant l’avait perdu.",
+        "value": 3
+      },
+      {
+        "label": "D Qu’on l’avait envoyé ailleurs.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q18.mp3?_=18",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle va appeler le locataire.",
+        "value": 1
+      },
+      {
+        "label": "B Elle va attendre un petit peu.",
+        "value": 2
+      },
+      {
+        "label": "C Elle va refuser le paiement.",
+        "value": 3
+      },
+      {
+        "label": "D Elle va revenir une autre fois.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q19.mp3?_=19",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il fait beau qu’hier.",
+        "value": 1
+      },
+      {
+        "label": "B Il fait plus mauvais qu’hier.",
+        "value": 2
+      },
+      {
+        "label": "C Il pleut plus qu’hier.",
+        "value": 3
+      },
+      {
+        "label": "D Il y a moins de soleil qu’hier.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q20.mp3?_=20",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle va repartir avec sa voiture.",
+        "value": 1
+      },
+      {
+        "label": "B Elle va revenir dans dix minutes.",
+        "value": 2
+      },
+      {
+        "label": "C Elle va revenir le lendemain.",
+        "value": 3
+      },
+      {
+        "label": "D Elle va repartir sans sa voiture.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q21.mp3?_=21",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils affichaient des prix erronés.",
+        "value": 1
+      },
+      {
+        "label": "B Ils annonçaient de fausses promotions.",
+        "value": 2
+      },
+      {
+        "label": "C Ils soldaient des articles périmés.",
+        "value": 3
+      },
+      {
+        "label": "D Ils vendaient des marchandises à perte.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/CO14Q22.mp3?_=22",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A II n’y a plus de place en seconde classe.",
+        "value": 1
+      },
+      {
+        "label": "B II n’y a plus de place pour la voiture.",
+        "value": 2
+      },
+      {
+        "label": "C Il n’y a plus de place pour quatre personnes.",
+        "value": 3
+      },
+      {
+        "label": "D II n’y a plus de cabines pour quatre personnes.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/CO14Q23.mp3?_=23",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle a changé de cursus universitaire.",
+        "value": 1
+      },
+      {
+        "label": "B Elle a rencontré des gens étonnants.",
+        "value": 2
+      },
+      {
+        "label": "C Elle a suivi des enseignements variés.",
+        "value": 3
+      },
+      {
+        "label": "D Elle a trouvé le niveau des cours facile.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/CO14Q24.mp3?_=24",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Amener l’élève à participer à sa propre formation.",
+        "value": 1
+      },
+      {
+        "label": "B Axer principalement l’apprentissage sur le jeu.",
+        "value": 2
+      },
+      {
+        "label": "C Initier les élèves à des activités parascolaires.",
+        "value": 3
+      },
+      {
+        "label": "D  Responsabiliser les élèves encore immatures.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/20Q24.mp3?_=25",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils annulent leurs activités.",
+        "value": 1
+      },
+      {
+        "label": "B Ils partent à la montagne.",
+        "value": 2
+      },
+      {
+        "label": "C Ils préfèrent sortir la nuit.",
+        "value": 3
+      },
+      {
+        "label": "D Ils restent au frais à l’intérieur.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q26.mp3?_=26",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De ses difficultés à se réveiller le matin.",
+        "value": 1
+      },
+      {
+        "label": "B De son dernier salaire qui est insuffisant.",
+        "value": 2
+      },
+      {
+        "label": "C De son emploi du temps professionnel.",
+        "value": 3
+      },
+      {
+        "label": "D De son manque d’organisation habituel.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q27.mp3?_=27",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La répartition des tâches dans le service.",
+        "value": 1
+      },
+      {
+        "label": "B Le manque d’expérience de l’équipe.",
+        "value": 2
+      },
+      {
+        "label": "C Le retard pris dans la réalisation d’un projet.",
+        "value": 3
+      },
+      {
+        "label": "D Les désaccords entre employeur et employés.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q28.mp3?_=28",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’apprendre à élaborer des itinéraires de visites.",
+        "value": 1
+      },
+      {
+        "label": "B D’expérimenter une manière différente de voyager.",
+        "value": 2
+      },
+      {
+        "label": "C De découvrir des adresses d’hôtel à l’étranger.",
+        "value": 3
+      },
+      {
+        "label": "D De participer à des actions de solidarité internationale.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-2-–-Q29.mp3?_=29",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il y a eu des problèmes de circulation automobile.",
+        "value": 1
+      },
+      {
+        "label": "B Le réveille-matin n’a pas sonné.",
+        "value": 2
+      },
+      {
+        "label": "C Il y a eu une panne d’électricité dans le métro.",
+        "value": 3
+      },
+      {
+        "label": "D Le personnel du métro a fait grève.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q30.mp3?_=30",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il annonce une réorganisation.",
+        "value": 1
+      },
+      {
+        "label": "B Il encourage un collaborateur.",
+        "value": 2
+      },
+      {
+        "label": "C Il négocie des délais de livraison.",
+        "value": 3
+      },
+      {
+        "label": "D II rappelle à l’ordre un employé.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q31.mp3?_=31",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’attribution d’aides financières.",
+        "value": 1
+      },
+      {
+        "label": "B Les inégalités salariales.",
+        "value": 2
+      },
+      {
+        "label": "C Les modes de consommation.",
+        "value": 3
+      },
+      {
+        "label": "D L’essor du travail féminin.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/CO14Q32.mp3?_=32",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Les jeunes diplômés privilégient le travail en milieu urbain.",
+        "value": 1
+      },
+      {
+        "label": "B Les lauréats aux concours vétérinaires sont trop peu nombreux.",
+        "value": 2
+      },
+      {
+        "label": "C Les soins aux animaux de ferme demandent une spécialisation.",
+        "value": 3
+      },
+      {
+        "label": "D Les vétérinaires en activité refusent de former les nouveaux.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/01/29q33.mp3?_=33",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Faire découvrir des spécialités gastronomiques du terroir.",
+        "value": 1
+      },
+      {
+        "label": "B Présenter aux visiteurs des spécimens d’animaux d’élevage.",
+        "value": 2
+      },
+      {
+        "label": "C Promouvoir la campagne comme destination touristique.",
+        "value": 3
+      },
+      {
+        "label": "D Sensibiliser le public à la protection de l’environnement.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/WhatsApp-Audio-2024-06-05-a-14.13.40_f7b90a20.mp3?_=34",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Des enquêtes sondent la population sur la compréhensibilité des textes.",
+        "value": 1
+      },
+      {
+        "label": "B Des juristes contrôlent la rédaction qui a été assurée par des médecins.",
+        "value": 2
+      },
+      {
+        "label": "C Des professionnels de santé et des utilisateurs vérifient les notices.",
+        "value": 3
+      },
+      {
+        "label": "D Des programmes informatiques garantissent la lisibilité des textes.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/WhatsApp-Audio-2024-06-05-a-14.13.40_6b8f6a12.mp3?_=35",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il demande un délai supplémentaire de réflexion.",
+        "value": 1
+      },
+      {
+        "label": "B Il doute de l’intérêt d’un diagnostic préalable.",
+        "value": 2
+      },
+      {
+        "label": "C Il hésite sur la définition de son projet.",
+        "value": 3
+      },
+      {
+        "label": "D II souhaite l’avis de consultants extérieurs.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q36_01.mp3?_=36",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De la mise en vente libre de jouets sans contrôle sanitaire.",
+        "value": 1
+      },
+      {
+        "label": "B De la tendance des adultes à s’approprier les jouets des enfants.",
+        "value": 2
+      },
+      {
+        "label": "C De l’intérêt croissant suscité par les jouets tout au long de l’année.",
+        "value": 3
+      },
+      {
+        "label": "D Du niveau de toxicité maximal toléré dans la fabrication des jouets.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q37.mp3?_=37",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Sur l’étroite collaboration avec les équipes locales.",
+        "value": 1
+      },
+      {
+        "label": "B Sur la formation des employés expatriés.",
+        "value": 2
+      },
+      {
+        "label": "C Sur la prédominance de bénévoles dans chaque pays.",
+        "value": 3
+      },
+      {
+        "label": "D Sur le montant élevé des bénéfices réalisés.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/14Q38.mp3?_=38",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’absence de temps morts.",
+        "value": 1
+      },
+      {
+        "label": "B L’ennui des distractions.",
+        "value": 2
+      },
+      {
+        "label": "C L’insuffisance de repos.",
+        "value": 3
+      },
+      {
+        "label": "D Le manque d’action.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/Test-2-–-Q39.mp3?_=39",
+    "title": ""
+  }
+]

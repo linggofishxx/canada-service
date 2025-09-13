@@ -1,0 +1,938 @@
+[
+  {
+    "answer_items": [
+      {
+        "label": "A Donner des conseils.",
+        "value": 1
+      },
+      {
+        "label": "B Informer sur la météo.",
+        "value": 2
+      },
+      {
+        "label": "C Présenter des activités.",
+        "value": 3
+      },
+      {
+        "label": "D Proposer un menu.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q01.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Compléter des documents.",
+        "value": 1
+      },
+      {
+        "label": "B Demander un programme.",
+        "value": 2
+      },
+      {
+        "label": "C Prendre un rendez-vous.",
+        "value": 3
+      },
+      {
+        "label": "D Visiter un établissement.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q2.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Des ateliers pour enfants.",
+        "value": 1
+      },
+      {
+        "label": "B Du matériel de sport.",
+        "value": 2
+      },
+      {
+        "label": "C Un emploi à la montagne.",
+        "value": 3
+      },
+      {
+        "label": "D Une location de vacances.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q3.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Des achats de produits frais.",
+        "value": 1
+      },
+      {
+        "label": "B Des conseils pour maigrir.",
+        "value": 2
+      },
+      {
+        "label": "C Des recettes de cuisine.",
+        "value": 3
+      },
+      {
+        "label": "D Des repas livrés à domicile.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q4.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Canadienne.",
+        "value": 1
+      },
+      {
+        "label": "B Espagnole.",
+        "value": 2
+      },
+      {
+        "label": "C Italienne",
+        "value": 3
+      },
+      {
+        "label": "D Mexicaine.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q5-1.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’écrire aux invités.",
+        "value": 1
+      },
+      {
+        "label": "B D’organiser la fête.",
+        "value": 2
+      },
+      {
+        "label": "C De garder des enfants.",
+        "value": 3
+      },
+      {
+        "label": "D De préparer des danses.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q6.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La boutique est fermée.",
+        "value": 1
+      },
+      {
+        "label": "B La commande est arrivée.",
+        "value": 2
+      },
+      {
+        "label": "C La facture est disponible.",
+        "value": 3
+      },
+      {
+        "label": "D La livraison est en retard.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q7.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Pour annoncer son déménagement.",
+        "value": 1
+      },
+      {
+        "label": "B Pour donner de ses nouvelles.",
+        "value": 2
+      },
+      {
+        "label": "C Pour inviter Lucie en vacances.",
+        "value": 3
+      },
+      {
+        "label": "D Pour remercier son amie.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q8.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Aller chercher un colis.",
+        "value": 1
+      },
+      {
+        "label": "B Échanger son achat.",
+        "value": 2
+      },
+      {
+        "label": "C Envoyer une lettre.",
+        "value": 3
+      },
+      {
+        "label": "D Réserver son article.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q9.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Dessiner des bâtiments publics originaux.",
+        "value": 1
+      },
+      {
+        "label": "B Donner le goût du voyage aux habitants.",
+        "value": 2
+      },
+      {
+        "label": "C Inventer une ville facile à vivre pour tous.",
+        "value": 3
+      },
+      {
+        "label": "D Prévoir de nouveaux moyens de transport.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q10.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De changer les poubelles.",
+        "value": 1
+      },
+      {
+        "label": "B De collecter du plastique.",
+        "value": 2
+      },
+      {
+        "label": "C De gagner une bicyclette.",
+        "value": 3
+      },
+      {
+        "label": "D De travailler pour la mairie.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q11.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’anniversaire d’un magasin.",
+        "value": 1
+      },
+      {
+        "label": "B L’augmentation des ventes.",
+        "value": 2
+      },
+      {
+        "label": "C L’ouverture d’un commerce.",
+        "value": 3
+      },
+      {
+        "label": "D Le début des soldes d’été.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q12.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De parler de ses qualités personnelles.",
+        "value": 1
+      },
+      {
+        "label": "B De préparer un entretien d’embauche.",
+        "value": 2
+      },
+      {
+        "label": "C D’élaborer un curriculum vitae original.",
+        "value": 3
+      },
+      {
+        "label": "D D’insister sur sa formation universitaire.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q13.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Assister à des spectacles.",
+        "value": 1
+      },
+      {
+        "label": "B Obtenir de meilleures places.",
+        "value": 2
+      },
+      {
+        "label": "C Rencontrer des comédiens.",
+        "value": 3
+      },
+      {
+        "label": "D Suivre des visites guidées.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q14.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De l’utilisation du portable.",
+        "value": 1
+      },
+      {
+        "label": "B De la sécurité au volant.",
+        "value": 2
+      },
+      {
+        "label": "C Du bruit de la circulation.",
+        "value": 3
+      },
+      {
+        "label": "D Du vote d’une nouvelle loi.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q15.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De diffuser de la musique.",
+        "value": 1
+      },
+      {
+        "label": "B De réutiliser des objets.",
+        "value": 2
+      },
+      {
+        "label": "C De s’engager en politique.",
+        "value": 3
+      },
+      {
+        "label": "D De tourner des publicités.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q16.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle apprend le français.",
+        "value": 1
+      },
+      {
+        "label": "B Elle est dans sa famille..",
+        "value": 2
+      },
+      {
+        "label": "C Elle prépare un long voyage.",
+        "value": 3
+      },
+      {
+        "label": "D Elle visite le Royaume-Uni.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q17.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A  Ils apprennent à se servir correctement des réseaux sociaux.",
+        "value": 1
+      },
+      {
+        "label": "B Ils communiquent plus facilement avec l’instituteur.",
+        "value": 2
+      },
+      {
+        "label": "C Ils comprennent mieux l’intérêt des apprentissages proposés.",
+        "value": 3
+      },
+      {
+        "label": "D Ils sont plus attentifs après un moment de détente.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q18.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Le rôle joué par les historiens.",
+        "value": 1
+      },
+      {
+        "label": "B Le rythme de son avancement.",
+        "value": 2
+      },
+      {
+        "label": "C Le succès auprès du public.",
+        "value": 3
+      },
+      {
+        "label": "D Les personnes qui y travaillent.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q19.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La réputation de restaurants touristiques est menacée par Internet.",
+        "value": 1
+      },
+      {
+        "label": "B La technologie modifie la relation à la gastronomie.",
+        "value": 2
+      },
+      {
+        "label": "C Les grands chefs livrent leurs secrets sur des sites.",
+        "value": 3
+      },
+      {
+        "label": "D Les traditions culinaires peuvent se perpétuer grâce au numérique.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q20.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’adaptation de l’offre culinaire à la mode actuelle.",
+        "value": 1
+      },
+      {
+        "label": "B La baisse de la qualité des établissements.",
+        "value": 2
+      },
+      {
+        "label": "C La disparition graduelle de la cuisine traditionnelle.",
+        "value": 3
+      },
+      {
+        "label": "D L’hostilité des critiques spécialisés locaux.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q21.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Effectuer un calcul.",
+        "value": 1
+      },
+      {
+        "label": "B Évoquer un fait divers.",
+        "value": 2
+      },
+      {
+        "label": "C Fournir un support.",
+        "value": 3
+      },
+      {
+        "label": "D Sélectionner un souvenir.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q22.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle attire beaucoup d’investisseurs.",
+        "value": 1
+      },
+      {
+        "label": "B Elle enregistre des ventes record.",
+        "value": 2
+      },
+      {
+        "label": "C Elle recherche une clientèle aisée",
+        "value": 3
+      },
+      {
+        "label": "D Elle soutient l’esprit de création.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q23.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils ont plus de facilités d’apprentissage.",
+        "value": 1
+      },
+      {
+        "label": "B Ils ont une idée claire de leur futur métier.",
+        "value": 2
+      },
+      {
+        "label": "C Ils sont déterminés à travailler beaucoup.",
+        "value": 3
+      },
+      {
+        "label": "D Ils sont plus sûrs de leur nouveau choix.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q24.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils influencent les élèves au-delà de la classe.",
+        "value": 1
+      },
+      {
+        "label": "B Ils instillent le goût du travail en équipe.",
+        "value": 2
+      },
+      {
+        "label": "C Ils permettent au système de se maintenir.",
+        "value": 3
+      },
+      {
+        "label": "D  Ils suscitent de nombreuses vocations.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q25.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De nouvelles pédagogies semblent nécessaires.",
+        "value": 1
+      },
+      {
+        "label": "B Il conviendrait d’améliorer les résultats des élèvés.",
+        "value": 2
+      },
+      {
+        "label": "C L’Europe doit engager une réforme des programmes.",
+        "value": 3
+      },
+      {
+        "label": "D Un soutien scolaire journalier serait bénéfique.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q26.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Des libraires menacent de fermer boutique.",
+        "value": 1
+      },
+      {
+        "label": "B La qualité des livres publiés est catastrophique.",
+        "value": 2
+      },
+      {
+        "label": "C Le nombre d’ouvrages à paraître a diminué.",
+        "value": 3
+      },
+      {
+        "label": "D Un éditeur refuse de participer à cette tradition.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q27.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils perpétuent une forme d’exclusion.",
+        "value": 1
+      },
+      {
+        "label": "B Le nombre de candidats s’amenuise.",
+        "value": 2
+      },
+      {
+        "label": "C Leur niveau d’exigence diminue.",
+        "value": 3
+      },
+      {
+        "label": "D On les réforme régulièrement.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q28.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elles contribuent à une bonne hygiène de vie.",
+        "value": 1
+      },
+      {
+        "label": "B Elles facilitent les transactions sur Internet.",
+        "value": 2
+      },
+      {
+        "label": "C Elles permettent de communiquer à moindre frais.",
+        "value": 3
+      },
+      {
+        "label": "D Elles sont recommandées par le corps médical.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q29.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’accès universel à des aliments bon marché.",
+        "value": 1
+      },
+      {
+        "label": "B L’innovation des procédés de production.",
+        "value": 2
+      },
+      {
+        "label": "C Le développement du commerce équitable.",
+        "value": 3
+      },
+      {
+        "label": "D Le partage d’expériences traditionnelles.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q30.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La longévité des programmes.",
+        "value": 1
+      },
+      {
+        "label": "B La qualité des services offerts.",
+        "value": 2
+      },
+      {
+        "label": "C Le changement régulier des séries.",
+        "value": 3
+      },
+      {
+        "label": "D Le contentement de leurs abonnés",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q31.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’attirance pour les espaces naturels.",
+        "value": 1
+      },
+      {
+        "label": "B L’insécurité des zones urbaines.",
+        "value": 2
+      },
+      {
+        "label": "C La précarité du monde professionnel.",
+        "value": 3
+      },
+      {
+        "label": "D Le désir de vivre en communauté",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q32-2.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils créent un climat de méfiance envers la technologie.",
+        "value": 1
+      },
+      {
+        "label": "B Ils entraînent la disparition de pratiques traditionnelles.",
+        "value": 2
+      },
+      {
+        "label": "C Ils facilitent la vie quotidienne des personnes âgées.",
+        "value": 3
+      },
+      {
+        "label": "D Ils sont à l’origine de l’expansion économique du pays.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q33.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils correspondent à des programmes scolaires obsolètes.",
+        "value": 1
+      },
+      {
+        "label": "B Ils méconnaissent l’existence des familles recomposées.",
+        "value": 2
+      },
+      {
+        "label": "C Ils présentent un partage sexiste des tâches dans le couple.",
+        "value": 3
+      },
+      {
+        "label": "D Ils se moquent du quotidien des personnes sans emploi.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q34.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils se détériorent après un certain temps.",
+        "value": 1
+      },
+      {
+        "label": "B Ils sont dangereux pour la santé.",
+        "value": 2
+      },
+      {
+        "label": "C Ils sont nuisibles pour l’environnement.",
+        "value": 3
+      },
+      {
+        "label": "D Ils sont vendus à des prix élevés.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q35.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Être au plus près de l’actualité.",
+        "value": 1
+      },
+      {
+        "label": "B Présenter des histoires positives.",
+        "value": 2
+      },
+      {
+        "label": "C Proposer des anecdotes amusantes.",
+        "value": 3
+      },
+      {
+        "label": "D Recenser les dérives de la société.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q36.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il analyse l’établisserient d’une dynastie royale.",
+        "value": 1
+      },
+      {
+        "label": "B Il explique l’origine d’une légende médiévale.",
+        "value": 2
+      },
+      {
+        "label": "C Il explore la construction identitaire des Français.",
+        "value": 3
+      },
+      {
+        "label": "D Il renforce le mythe de la bataille de Bouvines.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q37.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Des associations de consommmteurs.",
+        "value": 1
+      },
+      {
+        "label": "B Des techniques de production nouvelles.",
+        "value": 2
+      },
+      {
+        "label": "C Des valeurs et des intentions claires.",
+        "value": 3
+      },
+      {
+        "label": "D Une population citadine et fortunée.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q38.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils augmentent les ressources des municipalités.",
+        "value": 1
+      },
+      {
+        "label": "B Ils contribuent à la protection de l’environnement.",
+        "value": 2
+      },
+      {
+        "label": "C Ils garantissent la fourniture continue d’énergie.",
+        "value": 3
+      },
+      {
+        "label": "D Ils participent à l’élimination des animaux nuisibles.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/12/31q39.png",
+    "mp3_url": "",
+    "title": ""
+  }
+]

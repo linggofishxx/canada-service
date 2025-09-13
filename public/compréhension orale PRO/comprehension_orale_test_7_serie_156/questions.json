@@ -1,0 +1,938 @@
+[
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez les 4 propositions. Choisissez celle qui correspond à l’image.",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/1-5-978x800.jpeg",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q1.mp3?_=1",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez les 4 propositions. Choisissez celle qui correspond à l’image.",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/2-4.jpeg",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q2.mp3?_=2",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q3.mp3?_=3",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q4.mp3?_=4",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q5.mp3?_=5",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q6.mp3?_=6",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q7.mp3?_=7",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle est déjà vendue.",
+        "value": 1
+      },
+      {
+        "label": "B Elle est en panne.",
+        "value": 2
+      },
+      {
+        "label": "C Elle est irréparable.",
+        "value": 3
+      },
+      {
+        "label": "D Elle est trop chère.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q8.mp3?_=8",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Chercher un travail en France.",
+        "value": 1
+      },
+      {
+        "label": "B Obtenir une bourse d’études.",
+        "value": 2
+      },
+      {
+        "label": "C Suivre des cours à l’université.",
+        "value": 3
+      },
+      {
+        "label": "D Trouver un appartement à Marseille.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q9.mp3?_=9",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De faire des rencontres.",
+        "value": 1
+      },
+      {
+        "label": "B De manger gratuitement.",
+        "value": 2
+      },
+      {
+        "label": "C De trouver un travail.",
+        "value": 3
+      },
+      {
+        "label": "D De vivre chez quelqu’un.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q10.mp3?_=10",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle a besoin de réparations urgentes.",
+        "value": 1
+      },
+      {
+        "label": "B Elle est localisée loin des commerces.",
+        "value": 2
+      },
+      {
+        "label": "C Elle est située dans une rue bruyante.",
+        "value": 3
+      },
+      {
+        "label": "D Elle possède un garage trop étroit.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q11.mp3?_=11",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Constituer son dossier par voie électronique.",
+        "value": 1
+      },
+      {
+        "label": "B Consulter la section « Étudiant étranger » sur internet.",
+        "value": 2
+      },
+      {
+        "label": "C Obtenir une reconnaissance de son diplôme tunisien.",
+        "value": 3
+      },
+      {
+        "label": "D Se mettre directement en contact avec l’université.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q12.mp3?_=12",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Conseiller les parents en matière d’alimentation.",
+        "value": 1
+      },
+      {
+        "label": "B Créer l’occasion de se retrouver en famille.",
+        "value": 2
+      },
+      {
+        "label": "C Découvrir des recettes de grand-mère.",
+        "value": 3
+      },
+      {
+        "label": "D Rassembler des enfants du monde entier.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q13.mp3?_=13",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Pour contrôler l’état des machines en service.",
+        "value": 1
+      },
+      {
+        "label": "B Pour donner une formation aux employés.",
+        "value": 2
+      },
+      {
+        "label": "C Pour mettre à jour toutes les applications.",
+        "value": 3
+      },
+      {
+        "label": "D Pour réparer des équipements informatiques.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q14.mp3?_=14",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La crise de l’économie mondiale.",
+        "value": 1
+      },
+      {
+        "label": "B L’accroissement de la population.",
+        "value": 2
+      },
+      {
+        "label": "C Les nouvelles règles d’hygiène.",
+        "value": 3
+      },
+      {
+        "label": "D Les récentes découvertes médicales.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q15.mp3?_=15",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A À quel moment il pourra poser des congés.",
+        "value": 1
+      },
+      {
+        "label": "B Dans quelle ville il devra partir en mission.",
+        "value": 2
+      },
+      {
+        "label": "C Qui sera de permanence au mois d’août.",
+        "value": 3
+      },
+      {
+        "label": "D S’il sera autorisé à suivre un stage en été.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q16.mp3?_=16",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A C’est une destination inadaptée pour les plus jeunes.",
+        "value": 1
+      },
+      {
+        "label": "B Elle refuse de marcher des heures pour visiter la ville.",
+        "value": 2
+      },
+      {
+        "label": "C L’hôtel propose un niveau de confort insuffisant.",
+        "value": 3
+      },
+      {
+        "label": "D Le prix d’un séjour pour une famille est trop élevé.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q17.mp3?_=17",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Pour confirmer un rendez-vous.",
+        "value": 1
+      },
+      {
+        "label": "B Pour demander un entretien.",
+        "value": 2
+      },
+      {
+        "label": "C Pour proposer un service.",
+        "value": 3
+      },
+      {
+        "label": "D Pour signaler un retard.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q18.mp3?_=18",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il a peu de diplômes.",
+        "value": 1
+      },
+      {
+        "label": "B Il est déjà trop âgé.",
+        "value": 2
+      },
+      {
+        "label": "C Il est mauvais en langues.",
+        "value": 3
+      },
+      {
+        "label": "D Il manque d’expérience.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q19.mp3?_=19",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’envie de changer de profession.",
+        "value": 1
+      },
+      {
+        "label": "B La nécessité de trouver un travail.",
+        "value": 2
+      },
+      {
+        "label": "C La réalisation d’un rêve de jeunesse.",
+        "value": 3
+      },
+      {
+        "label": "D La rencontre avec un passionné.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q20.mp3?_=20",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle conseille une activité physique.",
+        "value": 1
+      },
+      {
+        "label": "B Elle propose un arrêt maladie.",
+        "value": 2
+      },
+      {
+        "label": "C Elle rédige un certificat médical.",
+        "value": 3
+      },
+      {
+        "label": "D Elle remplit une feuille de soins.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q21.mp3?_=21",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Des activités en faveur du développement durable.",
+        "value": 1
+      },
+      {
+        "label": "B Des formations aux nouveaux métiers de l’éducation.",
+        "value": 2
+      },
+      {
+        "label": "C Des sorties équestres pour les écoliers de la région.",
+        "value": 3
+      },
+      {
+        "label": "D Des stages à destination des animateurs jeunesse.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q22.mp3?_=22",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Lui apporter un livre.",
+        "value": 1
+      },
+      {
+        "label": "B Lui demander conseil.",
+        "value": 2
+      },
+      {
+        "label": "C Lui présenter son travail.",
+        "value": 3
+      },
+      {
+        "label": "D Lui proposer une interview.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q23.mp3?_=23",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Des circuits respectueux de l’environnement.",
+        "value": 1
+      },
+      {
+        "label": "B Des formules adaptées à chaque client",
+        "value": 2
+      },
+      {
+        "label": "C Des tarifs plus que la concurrence.",
+        "value": 3
+      },
+      {
+        "label": "D Des voyages à caractère humanitaire.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q24.mp3?_=24",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Parce qu’elle craint les grosses chaleurs de l’été.",
+        "value": 1
+      },
+      {
+        "label": "B Parce qu’elle pense que les Vaillancourt sont ennuyeux.",
+        "value": 2
+      },
+      {
+        "label": "C Parce qu’elle souhaite changer de destination estivale.",
+        "value": 3
+      },
+      {
+        "label": "D Parce qu’elle trouve les chalets inconfortables.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q25.mp3?_=25",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A En collaborant à des activités de bénévolat.",
+        "value": 1
+      },
+      {
+        "label": "B En effectuant des stages durant ses études.",
+        "value": 2
+      },
+      {
+        "label": "C En prenant part à des salons de recrutement.",
+        "value": 3
+      },
+      {
+        "label": "D En suivant plusieurs formations spécifiques.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q26.mp3?_=26",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils appartiennent à des demandeurs d’emploi.",
+        "value": 1
+      },
+      {
+        "label": "B Ils sont cultivés par des gens sans emploi.",
+        "value": 2
+      },
+      {
+        "label": "C Ils fournissent des légumes aux commerçants de la ville.",
+        "value": 3
+      },
+      {
+        "label": "D Ils sont cultivés par des jardiniers professionnels.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q27.mp3?_=27",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Sa mémoire exceptionnelle.",
+        "value": 1
+      },
+      {
+        "label": "B Ses aptitudes au jardinage.",
+        "value": 2
+      },
+      {
+        "label": "C Ses origines sociales modestes.",
+        "value": 3
+      },
+      {
+        "label": "D Son parcours d’apprentissage.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q28.mp3?_=28",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils devront demander le remboursement de leur billet par écrit.",
+        "value": 1
+      },
+      {
+        "label": "B Ils devront descendre en gare de Valence suite à une panne.",
+        "value": 2
+      },
+      {
+        "label": "C Ils devront patienter à leur place jusqu’à l’arrêt complet du train.",
+        "value": 3
+      },
+      {
+        "label": "D Ils devront présenter leur billet à leur descente du train.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q29.mp3?_=29",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il contrôle rigoureusement toutes les formalités de garantie.",
+        "value": 1
+      },
+      {
+        "label": "B Il organise préalablement une rencontre avec les locataires.",
+        "value": 2
+      },
+      {
+        "label": "C Il propose une première révision gratuite des véhicules.",
+        "value": 3
+      },
+      {
+        "label": "D Il vérifie systématiquement l’identité de chacun de ses clients.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q30.mp3?_=30",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Aujourd’hui, être à la mode est une préoccupation superficielle.",
+        "value": 1
+      },
+      {
+        "label": "B Il faut porter des vêtements adaptés à toutes circonstances.",
+        "value": 2
+      },
+      {
+        "label": "C La société actuelle donne trop de place à l’apparence.",
+        "value": 3
+      },
+      {
+        "label": "D La tenue vestimentaire influence l’état psychologique.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q31.mp3?_=31",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle donne l’occasion de découvrir de jeunes talents.",
+        "value": 1
+      },
+      {
+        "label": "B Elle offre une expérience à un public de tous âges.",
+        "value": 2
+      },
+      {
+        "label": "C Elle permet de jouer sur scène avec son enfant.",
+        "value": 3
+      },
+      {
+        "label": "D Elle présente la même pièce en différentes langues.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q32.mp3?_=32",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’assujettissement insidieux des mineurs.",
+        "value": 1
+      },
+      {
+        "label": "B L’insuffisance d’information des parents.",
+        "value": 2
+      },
+      {
+        "label": "C La fatigue occasionnée chez les enfants.",
+        "value": 3
+      },
+      {
+        "label": "D Le manque d’intérêt éducatif de l’activité.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q33.mp3?_=33",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Un accès plus large aux fonds de la bibliothèque municipale.",
+        "value": 1
+      },
+      {
+        "label": "B Un contrat permettant de combiner différents types d’abonnements.",
+        "value": 2
+      },
+      {
+        "label": "C Un contrôle renforcé de l’identité des usagers des services de la ville.",
+        "value": 3
+      },
+      {
+        "label": "D Une modernisation des procédures d’emprunt des documents.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q34.mp3?_=34",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle commercialise des produits dangereux pour la santé.",
+        "value": 1
+      },
+      {
+        "label": "B Elle crée des besoins pour réutiliser de vieux remèdes.",
+        "value": 2
+      },
+      {
+        "label": "C Elle fait des profits grâce à la vente de traitements périmés.",
+        "value": 3
+      },
+      {
+        "label": "D Elle limite la recherche consacrée aux pathologies rares.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q35.mp3?_=35",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Leur aménagement doit suivre un modèle vertical.",
+        "value": 1
+      },
+      {
+        "label": "B Leur conception doit s’affranchir des modes du passé.",
+        "value": 2
+      },
+      {
+        "label": "C Leur développement est une menace pour l’environnement.",
+        "value": 3
+      },
+      {
+        "label": "D Leur expansion est loin d’être un phénomène inéluctable.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q36.mp3?_=36",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Sur des considérations morales.",
+        "value": 1
+      },
+      {
+        "label": "B Sur des convictions écologiques.",
+        "value": 2
+      },
+      {
+        "label": "C Sur des certitudes économiques.",
+        "value": 3
+      },
+      {
+        "label": "D Sur des prescriptions diététiques.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q37.mp3?_=37",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Comme un prétexte pour éviter de traiter les questions significatives.",
+        "value": 1
+      },
+      {
+        "label": "B Comme une occasion de commenter ce qui ne va pas dans notre société.",
+        "value": 2
+      },
+      {
+        "label": "C Comme un moyen de sensibiliser le public aux problèmes des individus.",
+        "value": 3
+      },
+      {
+        "label": "D Comme une façon de distraire les individus de leurs petits soucis quotidiens.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q38.mp3?_=38",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A En regroupant les œuvres selon un ordre chronologique.",
+        "value": 1
+      },
+      {
+        "label": "B En regroupant les tableaux dans une même salle.",
+        "value": 2
+      },
+      {
+        "label": "C En regroupant les toiles autour d’un même sujet.",
+        "value": 3
+      },
+      {
+        "label": "D En regroupant ses créations avec celles d’autres artistes.",
+        "value": 4
+      }
+    ],
+    "image_desc": "Écoutez l’extrait sonore et les 4 propositions.Choisissez la bonne réponse.",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/Test-7-–-Q39.mp3?_=39",
+    "title": ""
+  }
+]

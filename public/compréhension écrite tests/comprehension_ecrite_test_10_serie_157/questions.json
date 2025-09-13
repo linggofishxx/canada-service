@@ -1,0 +1,938 @@
+[
+  {
+    "answer_items": [
+      {
+        "label": "A Il a perdu ses papiers",
+        "value": 1
+      },
+      {
+        "label": "B Il a trop de travail",
+        "value": 2
+      },
+      {
+        "label": "C Il est très malade",
+        "value": 3
+      },
+      {
+        "label": "D Il part en vacances",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-1.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’escalier",
+        "value": 1
+      },
+      {
+        "label": "B La station de métro",
+        "value": 2
+      },
+      {
+        "label": "C Les ascenseurs",
+        "value": 3
+      },
+      {
+        "label": "D Les guichets",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-2.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’écouter une histoire",
+        "value": 1
+      },
+      {
+        "label": "B De faire des gâteaux",
+        "value": 2
+      },
+      {
+        "label": "C De jouer aux cartes",
+        "value": 3
+      },
+      {
+        "label": "D De regarder un film",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-3.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Dans un café",
+        "value": 1
+      },
+      {
+        "label": "B Dans un cinéma",
+        "value": 2
+      },
+      {
+        "label": "C Dans une boutique",
+        "value": 3
+      },
+      {
+        "label": "D Dans une entreprise",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-4.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Avec Mme Deor",
+        "value": 1
+      },
+      {
+        "label": "B Avec un chauffeur",
+        "value": 2
+      },
+      {
+        "label": "C En autobus",
+        "value": 3
+      },
+      {
+        "label": "D En taxi",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-5.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils vont bientôt déménager",
+        "value": 1
+      },
+      {
+        "label": "B Ils vont faire des travaux",
+        "value": 2
+      },
+      {
+        "label": "C Ils vont organiser une soirée",
+        "value": 3
+      },
+      {
+        "label": "D Ils vont recevoir de la visite",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-6.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Pour acheter un cadeau avec elle",
+        "value": 1
+      },
+      {
+        "label": "B Pour annuler sa venue à une fête",
+        "value": 2
+      },
+      {
+        "label": "C Pour décider d’un rendez-vous",
+        "value": 3
+      },
+      {
+        "label": "D Pour inviter son amie à diner",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-7.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Une formation adaptée pendant les vacances",
+        "value": 1
+      },
+      {
+        "label": "B Une grande variété de cours intensifs",
+        "value": 2
+      },
+      {
+        "label": "C Une promotion spéciale pour un voyage",
+        "value": 3
+      },
+      {
+        "label": "D Une réduction sur des stages pendant l’été",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-8.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Des visites de musées",
+        "value": 1
+      },
+      {
+        "label": "B Des voyages en Europe",
+        "value": 2
+      },
+      {
+        "label": "C Un mois de vacances",
+        "value": 3
+      },
+      {
+        "label": "D Un semestre d’études",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-9.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Aux élèves",
+        "value": 1
+      },
+      {
+        "label": "B Aux étudiants",
+        "value": 2
+      },
+      {
+        "label": "C Aux parents",
+        "value": 3
+      },
+      {
+        "label": "D Aux professeurs",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-10.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Aller chercher Anne",
+        "value": 1
+      },
+      {
+        "label": "B Faire des courses",
+        "value": 2
+      },
+      {
+        "label": "C Préparer le repas",
+        "value": 3
+      },
+      {
+        "label": "D Se coucher tôt",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-11.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Pour accueillir des élèves",
+        "value": 1
+      },
+      {
+        "label": "B Pour favoriser une autre pédagogie",
+        "value": 2
+      },
+      {
+        "label": "C Pour limiter les problèmes de santé",
+        "value": 3
+      },
+      {
+        "label": "D Pour rénover les salles de classe",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-12.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Leur couleur",
+        "value": 1
+      },
+      {
+        "label": "B Leur forme",
+        "value": 2
+      },
+      {
+        "label": "C Leur prix",
+        "value": 3
+      },
+      {
+        "label": "D Leur taille",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-13.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils téléchargent des jeux sur leur poste",
+        "value": 1
+      },
+      {
+        "label": "B Ils trouvent difficilement des informations",
+        "value": 2
+      },
+      {
+        "label": "C Leur rendement au travail diminue",
+        "value": 3
+      },
+      {
+        "label": "D Leurs échanges perdent en efficacité",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-14.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils l’utilisent plus que les adultes",
+        "value": 1
+      },
+      {
+        "label": "B Ils manquent de formation pratique",
+        "value": 2
+      },
+      {
+        "label": "C Ils s’en servent avec prudence",
+        "value": 3
+      },
+      {
+        "label": "D Ils se connectent en toute liberté",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-15.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De diffuser de la musique",
+        "value": 1
+      },
+      {
+        "label": "B De réutiliser des objets",
+        "value": 2
+      },
+      {
+        "label": "C De s’engager en politique",
+        "value": 3
+      },
+      {
+        "label": "D De tourner des publicités",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-16.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils bénéficient d’un meilleur service après-vente",
+        "value": 1
+      },
+      {
+        "label": "B Ils obtiennent des conseils sur le mode d’emploi",
+        "value": 2
+      },
+      {
+        "label": "C Ils ont accès immédiatement aux nouveaux modèles",
+        "value": 3
+      },
+      {
+        "label": "D Ils ont la possibilité d’essayer les appareils",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-17.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Les échanges en famille s’améliorent",
+        "value": 1
+      },
+      {
+        "label": "B L’attention en classe est en hausse",
+        "value": 2
+      },
+      {
+        "label": "C Les adolescents sont plus en forme",
+        "value": 3
+      },
+      {
+        "label": "D La réussite aux examens augmente",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-18.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il encourage les initiatives",
+        "value": 1
+      },
+      {
+        "label": "B Il favorise le rendement au travail",
+        "value": 2
+      },
+      {
+        "label": "C Il permet d’être plus détendu",
+        "value": 3
+      },
+      {
+        "label": "D Il rend les gens plus cultivés",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-19.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A En achetant les billets à l’avance",
+        "value": 1
+      },
+      {
+        "label": "B En choisissant des places pour quatre matchs",
+        "value": 2
+      },
+      {
+        "label": "C En prenant des billets pour un groupe",
+        "value": 3
+      },
+      {
+        "label": "D En présentant une carte de club de sport",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-20.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La priorité donnée à l’aspect écologique",
+        "value": 1
+      },
+      {
+        "label": "B La prise en compte de l’opinion publique",
+        "value": 2
+      },
+      {
+        "label": "C Le caractère provisoire de l’installation",
+        "value": 3
+      },
+      {
+        "label": "D Le choix des matériaux fabrication",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-21-000.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’attirance pour les études",
+        "value": 1
+      },
+      {
+        "label": "B L’appel des pays chauds",
+        "value": 2
+      },
+      {
+        "label": "C Le besoin d’interaction sociale",
+        "value": 3
+      },
+      {
+        "label": "D Le désir de reconnaissance",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-22.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’élargir leurs perspectives professionnelles",
+        "value": 1
+      },
+      {
+        "label": "B D’évaluer les possibilités d’évolution de leur carrière",
+        "value": 2
+      },
+      {
+        "label": "C De faire un bilan de leurs aptitudes",
+        "value": 3
+      },
+      {
+        "label": "D De privilégier leur épanouissement personnel",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-23.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il devient la solution idéale des voyages organisés à la dernière minute",
+        "value": 1
+      },
+      {
+        "label": "B Il est accessible à un nombre croissant d’utilisateurs grâce à internet",
+        "value": 2
+      },
+      {
+        "label": "C Il occupe une place grandissante dans les petites annonces des journaux",
+        "value": 3
+      },
+      {
+        "label": "D Il s’impose comme le moyen de déplacement à la mode chez les jeunes",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-24.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La lutte pour le maintien du niveau des salaires",
+        "value": 1
+      },
+      {
+        "label": "B La volonté de déménager à l’âge adulte",
+        "value": 2
+      },
+      {
+        "label": "C L’attachement aux valeurs de l’entreprise",
+        "value": 3
+      },
+      {
+        "label": "D Le désir d’évolution durant la vie active",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-25.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils ont une bonne situation financière",
+        "value": 1
+      },
+      {
+        "label": "B Ils pratiquent des loisirs en extérieur",
+        "value": 2
+      },
+      {
+        "label": "C Ils se préoccupent de l’environnement",
+        "value": 3
+      },
+      {
+        "label": "D Ils se rendent régulièrement en ville",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-26.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle appauvrit le lexique courant",
+        "value": 1
+      },
+      {
+        "label": "B Elle modifie le rapport au temps",
+        "value": 2
+      },
+      {
+        "label": "C Elle provoque la fin du courrier postal",
+        "value": 3
+      },
+      {
+        "label": "D Elle transforme le geste graphique",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-27.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’affection qu’elle portait à ses admirateurs",
+        "value": 1
+      },
+      {
+        "label": "B L’originalité qui caractérisait le choix de ses rôles",
+        "value": 2
+      },
+      {
+        "label": "C La générosité qu’elle manifestait dans sa vie",
+        "value": 3
+      },
+      {
+        "label": "D La séduction qui était son principal atout",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-28.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A À concurrencer la liste des hauts lieux dressée par l’UNESCO",
+        "value": 1
+      },
+      {
+        "label": "B À définir les critères esthétiques de l’architecture européenne",
+        "value": 2
+      },
+      {
+        "label": "C À favoriser l’émergence de valeurs culturelles collectives",
+        "value": 3
+      },
+      {
+        "label": "D À réfléchir sur la place du tourisme et de l’économie en Europe",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-29.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Demande à une cliente de payer l’intégralité de sa commande",
+        "value": 1
+      },
+      {
+        "label": "B Prévenir une cliente que sa commande sera livrée en retard",
+        "value": 2
+      },
+      {
+        "label": "C Confirmer à une cliente que sa commande a bien été expédiée",
+        "value": 3
+      },
+      {
+        "label": "D Prévenir un client qu’elle devra payer 20 euros de frais d’envoi",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-30.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Des blogueurs professionnels",
+        "value": 1
+      },
+      {
+        "label": "B Des étudiants climatologie",
+        "value": 2
+      },
+      {
+        "label": "C Des guides de montagne",
+        "value": 3
+      },
+      {
+        "label": "D Des passionnés de randonnée",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-31-000.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il appréciait de lire les récits d’écrivains de sa génération",
+        "value": 1
+      },
+      {
+        "label": "B Il était déjà, en son temps, un artiste reconnu par ses pairs",
+        "value": 2
+      },
+      {
+        "label": "C Il se plaisait à véhiculer une fausse image de lui-même",
+        "value": 3
+      },
+      {
+        "label": "D Il souffrait beaucoup à cause de son état mental fragile",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-32.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A C’est un indice de savoir-vivre",
+        "value": 1
+      },
+      {
+        "label": "B C’est un marqueur social",
+        "value": 2
+      },
+      {
+        "label": "C C’est un signe de respect",
+        "value": 3
+      },
+      {
+        "label": "D C’est une preuve d’éducation",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-33.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’absence du père oblige les mères à mettre leur vie affective entre parenthèses",
+        "value": 1
+      },
+      {
+        "label": "B La société actuelle accepte mal qu’un enfant élevé uniquement par son père",
+        "value": 2
+      },
+      {
+        "label": "C Les pères considèrent que l’absence de la mère doit être absolument compensée",
+        "value": 3
+      },
+      {
+        "label": "D Les pères seuls reconstruisent vite une vie de couple après une séparation",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-34.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’écriture requiert les mêmes qualités pour une fiction ou un essai",
+        "value": 1
+      },
+      {
+        "label": "B Le raisonnement du penseur représente une entrave à la création",
+        "value": 2
+      },
+      {
+        "label": "C Les grands romans sont issus des réflexions théoriques d’un auteur",
+        "value": 3
+      },
+      {
+        "label": "D Les modes d’écriture du romancier et de l’intellectuel sont identiques",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-35.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il revit des souvenirs lointains dans le bureau de la maison familiale",
+        "value": 1
+      },
+      {
+        "label": "B Il se rappelle une pièce de travail poussiéreuse interdit aux enfants",
+        "value": 2
+      },
+      {
+        "label": "C Il raconte son apprentissage de la lecture auprès de son grand-père",
+        "value": 3
+      },
+      {
+        "label": "D Il évoque ses rentrées scolaires alors qu’il ne savait pas encore lire",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-36.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A À s’acquitter d’un engagement moral",
+        "value": 1
+      },
+      {
+        "label": "B À s’affranchir d’une histoire ancienne",
+        "value": 2
+      },
+      {
+        "label": "C À se défaire d’un sentiment de culpabilité",
+        "value": 3
+      },
+      {
+        "label": "D À se justifier d’une action peu glorieuse",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-37.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Contribue à améliorer les méthodes d’apprentissage",
+        "value": 1
+      },
+      {
+        "label": "B Il est indispensable pour accéder au monde professionnel",
+        "value": 2
+      },
+      {
+        "label": "C Il permet de certifier les compétences réelles d’un candidat",
+        "value": 3
+      },
+      {
+        "label": "D Il perturbe le processus d’acquisition des connaissances",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-38.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Pour découvrir de nouvelles références",
+        "value": 1
+      },
+      {
+        "label": "B Pour posséder une bibliothèque fournie",
+        "value": 2
+      },
+      {
+        "label": "C Pour s’évader vers des horizons lointains",
+        "value": 3
+      },
+      {
+        "label": "D Pour trouver des remèdes à ses maux",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-10-Q-39-000.png",
+    "mp3_url": "",
+    "title": ""
+  }
+]

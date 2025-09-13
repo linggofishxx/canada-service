@@ -1,0 +1,938 @@
+[
+  {
+    "answer_items": [
+      {
+        "label": "A À un cours de pâtisserie.",
+        "value": 1
+      },
+      {
+        "label": "B À un déjeuner chez un ami.",
+        "value": 2
+      },
+      {
+        "label": "C À une fête d’anniversaire.",
+        "value": 3
+      },
+      {
+        "label": "D À une sortie en discothèque.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q1.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Pour lui conseiller un film.",
+        "value": 1
+      },
+      {
+        "label": "B Pour lui demander des nouvelles.",
+        "value": 2
+      },
+      {
+        "label": "C Pour lui proposer une sortie.",
+        "value": 3
+      },
+      {
+        "label": "D Pour lui raconter ses vacances.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q2.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Un changement de lieu.",
+        "value": 1
+      },
+      {
+        "label": "B Un nouvel horaire.",
+        "value": 2
+      },
+      {
+        "label": "C Une absence de professeur.",
+        "value": 3
+      },
+      {
+        "label": "D Une rencontre entre étudiants.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q3.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Avant ce soir.",
+        "value": 1
+      },
+      {
+        "label": "B Cette semaine.",
+        "value": 2
+      },
+      {
+        "label": "C Dans trois mois.",
+        "value": 3
+      },
+      {
+        "label": "D Pendant le déjeuner.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q4.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Découvrir la nourriture locale.",
+        "value": 1
+      },
+      {
+        "label": "B Gagner un repas traditionnel.",
+        "value": 2
+      },
+      {
+        "label": "C Prendre un cours de cuisine.",
+        "value": 3
+      },
+      {
+        "label": "D Visiter une ferme française.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q5xy.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle est en voyage à Montpellier.",
+        "value": 1
+      },
+      {
+        "label": "B Elle rencontre des amis à Paris.",
+        "value": 2
+      },
+      {
+        "label": "C Elle suit des cours à l’université.",
+        "value": 3
+      },
+      {
+        "label": "D Elle travaille dans un restaurant.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q6.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’apprendre à conduire.",
+        "value": 1
+      },
+      {
+        "label": "B De réparer des automobiles.",
+        "value": 2
+      },
+      {
+        "label": "C De voyager plus rapidement.",
+        "value": 3
+      },
+      {
+        "label": "D D’utiliser des véhicules.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q7xy.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Comment elle a acheté un article en ligne ?",
+        "value": 1
+      },
+      {
+        "label": "B Où elle a cherché un cadeau bon marché ?",
+        "value": 2
+      },
+      {
+        "label": "C Pourquoi elle a eu un chèque de réduction ?",
+        "value": 3
+      },
+      {
+        "label": "D Quand elle a échangé un vêtement soldé ?",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q8.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Continuer ses ventes.",
+        "value": 1
+      },
+      {
+        "label": "B Déménager à Montélimar.",
+        "value": 2
+      },
+      {
+        "label": "C Rencontrer des clients.",
+        "value": 3
+      },
+      {
+        "label": "D Téléphoner à Biotopia.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q9.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Une visite de Londres.",
+        "value": 1
+      },
+      {
+        "label": "B Un billet d’avion.",
+        "value": 2
+      },
+      {
+        "label": "C Un séjour à Paris.",
+        "value": 3
+      },
+      {
+        "label": "D Un voyage en train.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q10.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De changer les poubelles.",
+        "value": 1
+      },
+      {
+        "label": "B De collecter du plastique.",
+        "value": 2
+      },
+      {
+        "label": "C De gagner une bicyclette.",
+        "value": 3
+      },
+      {
+        "label": "D De travailler pour la mairie.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q11.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle est bonne pour la santé.",
+        "value": 1
+      },
+      {
+        "label": "B Elle facilite la socialisation.",
+        "value": 2
+      },
+      {
+        "label": "C Elle développe la mémoire.",
+        "value": 3
+      },
+      {
+        "label": "D Elle enrichit la personnalité.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q12.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Annuler son achat.",
+        "value": 1
+      },
+      {
+        "label": "B Échanger son article.",
+        "value": 2
+      },
+      {
+        "label": "C Obtenir une réduction.",
+        "value": 3
+      },
+      {
+        "label": "D Rendre le vêtement.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q13xy.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Assister à des spectacles.",
+        "value": 1
+      },
+      {
+        "label": "B Obtenir de meilleures places.",
+        "value": 2
+      },
+      {
+        "label": "C Rencontrer des comédiens.",
+        "value": 3
+      },
+      {
+        "label": "D Suivre des visites guidées.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q14.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Les clubs disparaissaient vite après leur création.",
+        "value": 1
+      },
+      {
+        "label": "B Les groupes concernés étaient trop nombreux.",
+        "value": 2
+      },
+      {
+        "label": "C Les lecteurs refusaient de parler à des journalistes.",
+        "value": 3
+      },
+      {
+        "label": "D Les rencontres se faisaient de manière irrégulière.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q15.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Pour aider les élèves à ne pas s’enrhumer.",
+        "value": 1
+      },
+      {
+        "label": "B Pour enseigner le droit à la tolérance.",
+        "value": 2
+      },
+      {
+        "label": "C Pour respecter des normes d’hygiène.",
+        "value": 3
+      },
+      {
+        "label": "D Pour supprimer les différences sociales.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q16.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’acheter des médicaments sans ordonnance.",
+        "value": 1
+      },
+      {
+        "label": "B D’avoir le choix entre différents spécialistes.",
+        "value": 2
+      },
+      {
+        "label": "C De prendre rapidement rendez-vous.",
+        "value": 3
+      },
+      {
+        "label": "D De traiter seul des affectations bénignes.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q17.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A  Un abonnement mensuel.",
+        "value": 1
+      },
+      {
+        "label": "B Un choix d’appartements.",
+        "value": 2
+      },
+      {
+        "label": "C Une location moins chère.",
+        "value": 3
+      },
+      {
+        "label": "D Une offre intéressante.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q18.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Donner à ces activités une fonction éducative.",
+        "value": 1
+      },
+      {
+        "label": "B Faire de ces loisirs des moments de partage.",
+        "value": 2
+      },
+      {
+        "label": "C Fixer des plages horaires pour jouer en ligne.",
+        "value": 3
+      },
+      {
+        "label": "D S’informer auprès des professionnels de santé.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q19.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Un manque d’intérêt du grand public.",
+        "value": 1
+      },
+      {
+        "label": "B Un risque de déconcentration des joueurs.",
+        "value": 2
+      },
+      {
+        "label": "C Une moindre crédibilité des arbitres.",
+        "value": 3
+      },
+      {
+        "label": "D Une perte de spontanéité des matchs.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q20xy.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Améliorer des capacités physiques.",
+        "value": 1
+      },
+      {
+        "label": "B Découvrir de nouveaux types de sports.",
+        "value": 2
+      },
+      {
+        "label": "C Développer le cercle de ses relations sociales.",
+        "value": 3
+      },
+      {
+        "label": "D Maintenir les performances de la mémoire.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q21.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il est à l’origine d’une politique de diminution des flux.",
+        "value": 1
+      },
+      {
+        "label": "B Il nécessite une réorganisation des lieux les plus visités.",
+        "value": 2
+      },
+      {
+        "label": "C Il permet de répartir les voyageurs sur tout le territoire.",
+        "value": 3
+      },
+      {
+        "label": "D Il suscite l’engagement des professionnels du secteur.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q22.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle concentre une intense activité diplomatique.",
+        "value": 1
+      },
+      {
+        "label": "B C’est un carrefour culturel intercontinental.",
+        "value": 2
+      },
+      {
+        "label": "C C’est une plaque tournante du marché de l’art.",
+        "value": 3
+      },
+      {
+        "label": "D Elle héberge de multiples lieux d’exposition.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q23.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il devient la solution idéale des voyages organisés à la dernière minute.",
+        "value": 1
+      },
+      {
+        "label": "B Il est accessible à un nombre croissant d’utilisateurs grâce à internet.",
+        "value": 2
+      },
+      {
+        "label": "C Il occupe une place grandissante dans les petites annonces des journaux.",
+        "value": 3
+      },
+      {
+        "label": "D Il s’impose comme le moyen de déplacement à la mode chez les jeunes.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q24.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Pour comparer son histoire à celle de la Terre.",
+        "value": 1
+      },
+      {
+        "label": "B Pour évaluer les possibilités d’aller y vivre.",
+        "value": 2
+      },
+      {
+        "label": "C Pour expliquer son grand nombre de séismes.",
+        "value": 3
+      },
+      {
+        "label": "D  Pour obtenir des données sur sa composition.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q25.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De nouvelles pédagogies semblent nécessaires.",
+        "value": 1
+      },
+      {
+        "label": "B Il conviendrait d’améliorer les résultats des élèves.",
+        "value": 2
+      },
+      {
+        "label": "C L’Europe doit engager une réforme des programmes.",
+        "value": 3
+      },
+      {
+        "label": "D Un soutien scolaire journalier serait bénéfique.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q26.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Les conséquences d’un régime végétarien.",
+        "value": 1
+      },
+      {
+        "label": "B Les doutes sur les méthodes de production.",
+        "value": 2
+      },
+      {
+        "label": "C Les effets de l’usage de produits chimiques.",
+        "value": 3
+      },
+      {
+        "label": "D Les problèmes causés par la surpopulation.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q27xy.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La manipulation des clients par les industriels.",
+        "value": 1
+      },
+      {
+        "label": "B L’attitude imprévisible des consommateurs.",
+        "value": 2
+      },
+      {
+        "label": "C L’uniformisation des saveurs et des gouts.",
+        "value": 3
+      },
+      {
+        "label": "D L’utilisation abusive des produits de synthèse.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q28.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Faire évoluer les mentalités au sujet du handicap au travail.",
+        "value": 1
+      },
+      {
+        "label": "B Permettre de modifier la législation sur le handicap au travail.",
+        "value": 2
+      },
+      {
+        "label": "C Recenser les discriminations dont sont victimes les handicapés.",
+        "value": 3
+      },
+      {
+        "label": "D Subventionner les entreprises qui recrutent des handicapés.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q29.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils finissent par maîtriser l’ensemble des matières.",
+        "value": 1
+      },
+      {
+        "label": "B Ils font des efforts dans les autres matières étudiées.",
+        "value": 2
+      },
+      {
+        "label": "C Ils négligent les matières trop faciles pour eux.",
+        "value": 3
+      },
+      {
+        "label": "D Ils se fixent des objectifs élevés dans ces matières.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q30.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A C’est la photographie qui est la forme d’art la moins valorisée.",
+        "value": 1
+      },
+      {
+        "label": "B Il y a peu d’événements culturels consacrés à la photographie.",
+        "value": 2
+      },
+      {
+        "label": "C Les photographies sont commercialisées à bas prix.",
+        "value": 3
+      },
+      {
+        "label": "D N’importe qui peut s’improviser photographe.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q31.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De participer à l’exploration du monde numérique.",
+        "value": 1
+      },
+      {
+        "label": "B De restreindre le temps consacré aux jeux vidéo.",
+        "value": 2
+      },
+      {
+        "label": "C De sélectionner des contenus adaptés aux enfants.",
+        "value": 3
+      },
+      {
+        "label": "D De surveiller la navigation des jeunes sur la toile.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q32.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il inquiète les patrons de sociétés.",
+        "value": 1
+      },
+      {
+        "label": "B Il touche les employés les plus faibles.",
+        "value": 2
+      },
+      {
+        "label": "C Son existence doit être officialisée.",
+        "value": 3
+      },
+      {
+        "label": "D Son traitement est peu efficace.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q33.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ce sont des blessures corporelles superficielles.",
+        "value": 1
+      },
+      {
+        "label": "B Elles sont commises par des groupes minoritaires.",
+        "value": 2
+      },
+      {
+        "label": "C Les autorités universitaires s’en préoccupent peu.",
+        "value": 3
+      },
+      {
+        "label": "D Lutter contre elles peut nuire à certaines libertés.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q34.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Aborder des œuvres réputées difficiles avec leurs élèves.",
+        "value": 1
+      },
+      {
+        "label": "B Encourager leurs élèves à écrire des textes littéraires.",
+        "value": 2
+      },
+      {
+        "label": "C Inviter régulièrement des écrivains célèbres dans leur classe.",
+        "value": 3
+      },
+      {
+        "label": "D Monter des pièces de théâtre d’auteurs classiques.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q35.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’influence de ses contemporains.",
+        "value": 1
+      },
+      {
+        "label": "B La singularité de ses portraits.",
+        "value": 2
+      },
+      {
+        "label": "C Son engouement pour la nature.",
+        "value": 3
+      },
+      {
+        "label": "D Son travail post-impressionniste.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q36.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il analyse l’établissement d’une dynastie royale.",
+        "value": 1
+      },
+      {
+        "label": "B Il explique l’origine d’une légende médiévale.",
+        "value": 2
+      },
+      {
+        "label": "C Il explore la construction identitaire des Français.",
+        "value": 3
+      },
+      {
+        "label": "D Il renforce de mythe de la bataille de Bouvines.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q37.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il est déconseillé de rester enfermé chez soi.",
+        "value": 1
+      },
+      {
+        "label": "B Il est inutile de partir loin pour être dépaysé.",
+        "value": 2
+      },
+      {
+        "label": "C Il faut organiser les voyages avec des proches.",
+        "value": 3
+      },
+      {
+        "label": "D Il suffit d’apprendre à profiter du quotidien.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q38.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Améliorer les résultats scolaires.",
+        "value": 1
+      },
+      {
+        "label": "B Avoir plus de temps pour eux.",
+        "value": 2
+      },
+      {
+        "label": "C Resserrer les liens familiaux.",
+        "value": 3
+      },
+      {
+        "label": "D Se donner bonne conscience.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/comprehension-ecrite-17Q39.png",
+    "mp3_url": "",
+    "title": ""
+  }
+]

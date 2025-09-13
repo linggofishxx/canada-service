@@ -1,0 +1,938 @@
+[
+  {
+    "answer_items": [
+      {
+        "label": "A Un appartement",
+        "value": 1
+      },
+      {
+        "label": "B Un restaurant",
+        "value": 2
+      },
+      {
+        "label": "C Un voyage",
+        "value": 3
+      },
+      {
+        "label": "D Une voiture",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q1.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Des cours particuliers",
+        "value": 1
+      },
+      {
+        "label": "B Des jobs pendant le Week-end",
+        "value": 2
+      },
+      {
+        "label": "C Des rencontres entre jeunes",
+        "value": 3
+      },
+      {
+        "label": "D Des voyages à l’étranger",
+        "value": 4
+      }
+    ],
+    "image_desc": "Que propose cette association ?",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-2.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il va avoir de nouveaux horaires",
+        "value": 1
+      },
+      {
+        "label": "B Il va changer de propriétaire",
+        "value": 2
+      },
+      {
+        "label": "C Il va déménager en septembre",
+        "value": 3
+      },
+      {
+        "label": "D Il va fermer pendant l’été",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-3.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Une naissance",
+        "value": 1
+      },
+      {
+        "label": "B Une exposition",
+        "value": 2
+      },
+      {
+        "label": "C Un anniversaire",
+        "value": 3
+      },
+      {
+        "label": "D Un mariage",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-4.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Canadienne",
+        "value": 1
+      },
+      {
+        "label": "B Espagnole",
+        "value": 2
+      },
+      {
+        "label": "C Italienne",
+        "value": 3
+      },
+      {
+        "label": "D Mexicaine",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-5.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Au personnel",
+        "value": 1
+      },
+      {
+        "label": "B Aux étudiants",
+        "value": 2
+      },
+      {
+        "label": "C Aux parents",
+        "value": 3
+      },
+      {
+        "label": "D Aux professeurs",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-6.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A En décembre",
+        "value": 1
+      },
+      {
+        "label": "B En février",
+        "value": 2
+      },
+      {
+        "label": "C En mai",
+        "value": 3
+      },
+      {
+        "label": "D En mars",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-7.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Un court séjour touristique",
+        "value": 1
+      },
+      {
+        "label": "B Une leçon de cuisine",
+        "value": 2
+      },
+      {
+        "label": "C Une participation à un concours",
+        "value": 3
+      },
+      {
+        "label": "D Une réduction pour le train",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-8.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’alimentation",
+        "value": 1
+      },
+      {
+        "label": "B L’éducation",
+        "value": 2
+      },
+      {
+        "label": "C La cuisine",
+        "value": 3
+      },
+      {
+        "label": "D Le commerce",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-9.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Dans la journée",
+        "value": 1
+      },
+      {
+        "label": "B Le lendemain",
+        "value": 2
+      },
+      {
+        "label": "C Le soi-même",
+        "value": 3
+      },
+      {
+        "label": "D Vendredi matin",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-10.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Apprendre à jouer d’un instrument de musique",
+        "value": 1
+      },
+      {
+        "label": "B Faire de la musique avec d’autres personnes",
+        "value": 2
+      },
+      {
+        "label": "C Organiser des concerts de musique gratuits",
+        "value": 3
+      },
+      {
+        "label": "D Rencontrer des professionnels de la musique",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-11.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Pour éviter de tomber malades",
+        "value": 1
+      },
+      {
+        "label": "B Pour profiter de tarifs avantageux",
+        "value": 2
+      },
+      {
+        "label": "C Pour protéger l’environnement",
+        "value": 3
+      },
+      {
+        "label": "D Pour soutenir les paysans locaux",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-12.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A C’est son mode de communication favori",
+        "value": 1
+      },
+      {
+        "label": "B Il a entamé une formation de journaliste",
+        "value": 2
+      },
+      {
+        "label": "C Il peut partager sa passion avec un public",
+        "value": 3
+      },
+      {
+        "label": "D Pour répondre aux attentes de son public",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-13.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Aider les couples en mal d’enfant",
+        "value": 1
+      },
+      {
+        "label": "B Défendre les droits des enfants",
+        "value": 2
+      },
+      {
+        "label": "C Donner une famille aux enfants",
+        "value": 3
+      },
+      {
+        "label": "D Fournir un hébergement aux enfants",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-14.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La mairie de Paris va essayer de s’opposer aux livres électroniques",
+        "value": 1
+      },
+      {
+        "label": "B Les bibliothèques risquent de fermer à cause des livres électroniques",
+        "value": 2
+      },
+      {
+        "label": "C Les Français préfèrent les livres électroniques aux livres traditionnels",
+        "value": 3
+      },
+      {
+        "label": "D Les Parisiens peuvent accéder facilement à des livres électroniques",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-15.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il a appris plusieurs langues avec des manuels",
+        "value": 1
+      },
+      {
+        "label": "B Il a enseigné les langues anciennes au lycée",
+        "value": 2
+      },
+      {
+        "label": "C Il est passionné d’ouvrages sur les langues",
+        "value": 3
+      },
+      {
+        "label": "D Il va publier dans une revue sur les langues",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-16-000.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Consulter sa boite de réception de courriels",
+        "value": 1
+      },
+      {
+        "label": "B Écrire au responsable de la formation choisie",
+        "value": 2
+      },
+      {
+        "label": "C S’informer sur le site internet www.univ.fr",
+        "value": 3
+      },
+      {
+        "label": "D Téléphoner au département communication",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-17.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Aux familles qui ont des factures élevées",
+        "value": 1
+      },
+      {
+        "label": "B Aux jeunes qui veulent vivre en colocation",
+        "value": 2
+      },
+      {
+        "label": "C Aux locataires qui ont de faibles revenus",
+        "value": 3
+      },
+      {
+        "label": "D Aux personnes qui achètent un logement",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-18.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il cite un extrait d’une œuvre de Modiano",
+        "value": 1
+      },
+      {
+        "label": "B Il explique l’idée de départ d’un livre de Modiano",
+        "value": 2
+      },
+      {
+        "label": "C Il présente le métier de Modiano à ses débuts",
+        "value": 3
+      },
+      {
+        "label": "D Il raconte la rencontre entre Modiano et sa femme",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-19.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Améliorer les capacités physiques",
+        "value": 1
+      },
+      {
+        "label": "B Découvrir de nouveaux types de sports",
+        "value": 2
+      },
+      {
+        "label": "C Développer le cercle de ses relations sociales",
+        "value": 3
+      },
+      {
+        "label": "D Maintenir les performances de la mémoire",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-20.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Annoncer la signature d’un accord de coopération",
+        "value": 1
+      },
+      {
+        "label": "B Communiquer une offre de stage de fin d’études",
+        "value": 2
+      },
+      {
+        "label": "C Faire part de la réponse d’un responsable",
+        "value": 3
+      },
+      {
+        "label": "D Informer sur le profil d’un poste disponible",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-21.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il néglige les commerces dans les rues piétonnes",
+        "value": 1
+      },
+      {
+        "label": "B Il rend difficile l’accès aux secteurs touristiques",
+        "value": 2
+      },
+      {
+        "label": "C Il répond peu aux besoins en pistes cyclables des habitants",
+        "value": 3
+      },
+      {
+        "label": "D Il risque d’entraver la circulation des véhicules de secours",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-22.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils éloignent les jeunes du monde des adultes",
+        "value": 1
+      },
+      {
+        "label": "B Ils entraînent des comportements types addictifs",
+        "value": 2
+      },
+      {
+        "label": "C Ils ont tendance à couper les adolescents du réel",
+        "value": 3
+      },
+      {
+        "label": "D Ils peuvent être utilisés comme outils de contrôle",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-23.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle demande des connaissances techniques poussées",
+        "value": 1
+      },
+      {
+        "label": "B Elle empêche les jeunes utilisateurs de se concentrer",
+        "value": 2
+      },
+      {
+        "label": "C Elle masque les problèmes pédagogiques essentiels",
+        "value": 3
+      },
+      {
+        "label": "D Elle sert sans succès d’argument commercial",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-24.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Faire la promotion de l’apprentissage d’un métier auprès des jeunes",
+        "value": 1
+      },
+      {
+        "label": "B Former les professeurs à de nouvelles méthodes d’enseignement",
+        "value": 2
+      },
+      {
+        "label": "C Présenter les opportunités de stage en entreprise dans la région",
+        "value": 3
+      },
+      {
+        "label": "D Proposer aux étudiants des stratégies de recherche d’emploi",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-25.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elles font partie de la gastronomie régionale",
+        "value": 1
+      },
+      {
+        "label": "B Les gens en mangent plus que par le passé",
+        "value": 2
+      },
+      {
+        "label": "C Les médecins conseillent leur usage en cuisine",
+        "value": 3
+      },
+      {
+        "label": "D Leur culture augmente rapidement sur les côtes",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-26.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’un catalogue de styliste",
+        "value": 1
+      },
+      {
+        "label": "B D’un dictionnaire philosophique",
+        "value": 2
+      },
+      {
+        "label": "C D’un manuel d’histoire de l’art",
+        "value": 3
+      },
+      {
+        "label": "D D’une présentation de musée",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-27.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La manipulation des clients par les industriels",
+        "value": 1
+      },
+      {
+        "label": "B L’attitude imprévisible des consommateurs",
+        "value": 2
+      },
+      {
+        "label": "C L’uniformisation des saveurs et des goûts",
+        "value": 3
+      },
+      {
+        "label": "D L’utilisation abusive des produits de synthèse",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-28.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Le recours à l’énergie nucléaire sera toujours indispensable",
+        "value": 1
+      },
+      {
+        "label": "B Le développement d’autres énergies que le nucléaire est superflu",
+        "value": 2
+      },
+      {
+        "label": "C Le renoncement au nucléaire doit être mûrement planifié",
+        "value": 3
+      },
+      {
+        "label": "D L’exploitation des forêts peut pallier entièrement le nucléaire",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-29.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Guérir de leurs troubles du langage",
+        "value": 1
+      },
+      {
+        "label": "B Intégrer une classe traditionnelle",
+        "value": 2
+      },
+      {
+        "label": "C Préparer leur entrée au collègue",
+        "value": 3
+      },
+      {
+        "label": "D Profiter d’un encadrement spécifique",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-30.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Sa connaissance des médias",
+        "value": 1
+      },
+      {
+        "label": "B Sas méthodes ancestrales",
+        "value": 2
+      },
+      {
+        "label": "C Ses recettes originales",
+        "value": 3
+      },
+      {
+        "label": "D Son charisme incroyable",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-31.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De participer à l’exploration du monde numérique",
+        "value": 1
+      },
+      {
+        "label": "B De restreindre le temps consacré aux jeux vidéo",
+        "value": 2
+      },
+      {
+        "label": "C De sélectionner des contenus adaptés aux enfants",
+        "value": 3
+      },
+      {
+        "label": "D De surveiller la navigation des jeunes sur la toile",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-32.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Convertir les lieux en maison de la culture",
+        "value": 1
+      },
+      {
+        "label": "B Diffuser l’art dans des endroits inattendus",
+        "value": 2
+      },
+      {
+        "label": "C Ouvrir un centre de formation artistique",
+        "value": 3
+      },
+      {
+        "label": "D Rénover les anciens locaux en les décorant",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-33.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Dans un centre de relaxation",
+        "value": 1
+      },
+      {
+        "label": "B Dans un laboratoire",
+        "value": 2
+      },
+      {
+        "label": "C Dans un musée archéologique",
+        "value": 3
+      },
+      {
+        "label": "D Dans un parc naturel",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-34.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il apaise les tensions de la société",
+        "value": 1
+      },
+      {
+        "label": "B Il insiste sur le point de vue matériel",
+        "value": 2
+      },
+      {
+        "label": "C Il propose des programmes utopiques",
+        "value": 3
+      },
+      {
+        "label": "D Il traite les problèmes liés aux sols",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-35.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’influence de ses contemporains",
+        "value": 1
+      },
+      {
+        "label": "B La singularité de ses portraits",
+        "value": 2
+      },
+      {
+        "label": "C Son engouement pour la nature",
+        "value": 3
+      },
+      {
+        "label": "D Son travail post- impressionniste",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-36.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La capacité des plantes à nettoyer les sols",
+        "value": 1
+      },
+      {
+        "label": "B La rentabilité d’un nouveau système d’extraction",
+        "value": 2
+      },
+      {
+        "label": "C Le résultat des recherches de M. Van der Hent",
+        "value": 3
+      },
+      {
+        "label": "D Les préoccupations écologistes des industriels",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-37.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La dégradation des relations sociales à cause d’internet",
+        "value": 1
+      },
+      {
+        "label": "B La multiplication des sources d’information",
+        "value": 2
+      },
+      {
+        "label": "C La nocivité des écrans sur le développement des enfants",
+        "value": 3
+      },
+      {
+        "label": "D La recrudescence d’informations mensongères",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-38.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il constitue une création artistique novatrice",
+        "value": 1
+      },
+      {
+        "label": "B Il établit des ponts avec d’autres auteurs",
+        "value": 2
+      },
+      {
+        "label": "C Il fait connaitre les travaux d’un écrivain",
+        "value": 3
+      },
+      {
+        "label": "D Il ouvre la voie à de prochaines réalisations",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-9-Q-39.png",
+    "mp3_url": "",
+    "title": ""
+  }
+]

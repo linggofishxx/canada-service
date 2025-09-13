@@ -1,0 +1,938 @@
+[
+  {
+    "answer_items": [
+      {
+        "label": "A Ses amis",
+        "value": 1
+      },
+      {
+        "label": "B Ses collègues",
+        "value": 2
+      },
+      {
+        "label": "C Ses enfants",
+        "value": 3
+      },
+      {
+        "label": "D Ses voisins",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q1.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Des billets de train",
+        "value": 1
+      },
+      {
+        "label": "B Des légumes",
+        "value": 2
+      },
+      {
+        "label": "C Des pâtisseries",
+        "value": 3
+      },
+      {
+        "label": "D Des vêtements",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q2.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’adresse postale",
+        "value": 1
+      },
+      {
+        "label": "B Le courrier électronique",
+        "value": 2
+      },
+      {
+        "label": "C Le numéro de téléphone",
+        "value": 3
+      },
+      {
+        "label": "D Le site internet",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q3.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Une adresse",
+        "value": 1
+      },
+      {
+        "label": "B Une date",
+        "value": 2
+      },
+      {
+        "label": "C Un horaire",
+        "value": 3
+      },
+      {
+        "label": "D Un tarif",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q4.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La date",
+        "value": 1
+      },
+      {
+        "label": "B La matière",
+        "value": 2
+      },
+      {
+        "label": "C Le lieu",
+        "value": 3
+      },
+      {
+        "label": "D L’heure",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q5.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’apprendre à cuisiner des plats étrangers",
+        "value": 1
+      },
+      {
+        "label": "B D’organiser des repas-spectacles à thèmes",
+        "value": 2
+      },
+      {
+        "label": "C De gagner un voyage à la fin du repas",
+        "value": 3
+      },
+      {
+        "label": "D De goûter des spécialités franco-espagnoles",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q6.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A En décembre",
+        "value": 1
+      },
+      {
+        "label": "B En février",
+        "value": 2
+      },
+      {
+        "label": "C En mai",
+        "value": 3
+      },
+      {
+        "label": "D En mars",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q7.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Le début des vacances",
+        "value": 1
+      },
+      {
+        "label": "B Le déménagement de l’entreprise",
+        "value": 2
+      },
+      {
+        "label": "C Le départ d’un collègue",
+        "value": 3
+      },
+      {
+        "label": "D Les résultats de l’équipe",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q8.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De participer à un concours",
+        "value": 1
+      },
+      {
+        "label": "C De s’inscrire à un stage",
+        "value": 2
+      },
+      {
+        "label": "B De tester des activités",
+        "value": 3
+      },
+      {
+        "label": "D De voir un spectacle",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q9.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Pour un anniversaire",
+        "value": 1
+      },
+      {
+        "label": "B Pour un mariage",
+        "value": 2
+      },
+      {
+        "label": "C Pour un réveillon",
+        "value": 3
+      },
+      {
+        "label": "D Pour un spectacle",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q10.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A À acheter sur internet",
+        "value": 1
+      },
+      {
+        "label": "B À choisir ses produits",
+        "value": 2
+      },
+      {
+        "label": "C À noter les magasins",
+        "value": 3
+      },
+      {
+        "label": "D À trouver des recettes",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q11.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Agent secouriste",
+        "value": 1
+      },
+      {
+        "label": "B Agent commercial",
+        "value": 2
+      },
+      {
+        "label": "C Agent de sécurité",
+        "value": 3
+      },
+      {
+        "label": "D Agent de circulation",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q12.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De découvrir une langue",
+        "value": 1
+      },
+      {
+        "label": "B De faire un spectacle",
+        "value": 2
+      },
+      {
+        "label": "C D’envoyer des photos",
+        "value": 3
+      },
+      {
+        "label": "D Inventer une recette",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q13.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elles adorent utiliser Facebook",
+        "value": 1
+      },
+      {
+        "label": "B Elles enseignent dans la même école",
+        "value": 2
+      },
+      {
+        "label": "C Elles habitent dans le même pays",
+        "value": 3
+      },
+      {
+        "label": "D Elles ont la même famille adoptive",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q14.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La difficulté de trouver un stage à l’étranger",
+        "value": 1
+      },
+      {
+        "label": "B La nécessite de s’exiler pour pouvoir travailler",
+        "value": 2
+      },
+      {
+        "label": "C Le manque de formation des jeunes diplômés",
+        "value": 3
+      },
+      {
+        "label": "D Le niveau trop faible des salaires proposés",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q15.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils évitent de rayer les appareils à écran tactile",
+        "value": 1
+      },
+      {
+        "label": "B Ils permettent un contact direct avec un écran tactile",
+        "value": 2
+      },
+      {
+        "label": "C Ils sont équipés de capteurs reliés à un écran tactile",
+        "value": 3
+      },
+      {
+        "label": "D Ils sont offerts lors de l’achat d’un écran tactile",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q16.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Défavorable pour le restaurant",
+        "value": 1
+      },
+      {
+        "label": "B Nuancée pour le restaurant",
+        "value": 2
+      },
+      {
+        "label": "C Enthousiaste pour le restaurant",
+        "value": 3
+      },
+      {
+        "label": "D Objective pour le restaurant",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q17.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Une compétition sportive",
+        "value": 1
+      },
+      {
+        "label": "B Une visite guidée originale",
+        "value": 2
+      },
+      {
+        "label": "C Une séance de gymnastique",
+        "value": 3
+      },
+      {
+        "label": "D Une fête familiale en plein air",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q18.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il cite un extrait d’une œuvre de Modiano",
+        "value": 1
+      },
+      {
+        "label": "B Il explique l’idée de départ d’un livre de Modiano",
+        "value": 2
+      },
+      {
+        "label": "C Il présente le métier de Modiano à ses débuts",
+        "value": 3
+      },
+      {
+        "label": "D Il raconte la rencontre entre Modiano et sa femme",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q19.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Découvrir des recettes locales",
+        "value": 1
+      },
+      {
+        "label": "B Entrer en contact avec les gens",
+        "value": 2
+      },
+      {
+        "label": "C Réaliser une opération publicitaire",
+        "value": 3
+      },
+      {
+        "label": "D Vendre des spécialités françaises",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q20.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Qui débutent dans le métier de la télévente",
+        "value": 1
+      },
+      {
+        "label": "B Qui ont de l’expérience dans la télévente",
+        "value": 2
+      },
+      {
+        "label": "C Qui sont intéressés par un salaire modulable",
+        "value": 3
+      },
+      {
+        "label": "D Qui recherchent un contrat de courte durée",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q21.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Du fait de sa taille",
+        "value": 1
+      },
+      {
+        "label": "B Du fait de sa localisation",
+        "value": 2
+      },
+      {
+        "label": "C Du fait de sa décoration",
+        "value": 3
+      },
+      {
+        "label": "D Du fait de son personnel",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q22.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle est en cours de test",
+        "value": 1
+      },
+      {
+        "label": "B Le changement est définitif",
+        "value": 2
+      },
+      {
+        "label": "C Tout le monde peut en bénéficier",
+        "value": 3
+      },
+      {
+        "label": "D Une hospitalisation est nécessaire",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q23.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’urbanisation galopante des compagnes",
+        "value": 1
+      },
+      {
+        "label": "B La faible étendue des réserves écologiques",
+        "value": 2
+      },
+      {
+        "label": "C Le dérèglement climatique de la planète",
+        "value": 3
+      },
+      {
+        "label": "D Les produits utilisés dans les cultures",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q24.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A En envoyant des courriels sur la plateforme de l’émission",
+        "value": 1
+      },
+      {
+        "label": "B En étant sélectionné pour être convié sur le plateau",
+        "value": 2
+      },
+      {
+        "label": "C En joignant le standard de la chaîne pendant le direct",
+        "value": 3
+      },
+      {
+        "label": "D En participant à distance au moyen d’une cybercaméra",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q25.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’avenir de son travail est menacé par l’industrie agroalimentaire",
+        "value": 1
+      },
+      {
+        "label": "B La qualité des produits charcutiers est reconnue par les médecins",
+        "value": 2
+      },
+      {
+        "label": "C Le passage d’un métier de bouche à un autre se fait facilement",
+        "value": 3
+      },
+      {
+        "label": "D L’image attachée à sa profession est stéréotypée et peu valorisante",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q26.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’un catalogue de styliste",
+        "value": 1
+      },
+      {
+        "label": "B D’un dictionnaire philosophique",
+        "value": 2
+      },
+      {
+        "label": "C D’un manuel d’histoire de l’art",
+        "value": 3
+      },
+      {
+        "label": "D D’une présentation de musée",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q27.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A C’est un produit recherché par les consommateurs",
+        "value": 1
+      },
+      {
+        "label": "B Elle valorise des méthodes agricoles traditionnelles",
+        "value": 2
+      },
+      {
+        "label": "C Ses qualités nutritionnelles sont reconnues",
+        "value": 3
+      },
+      {
+        "label": "D Son exploitation génère des revenus élevés",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q28.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’accès universel à des aliments bon marché",
+        "value": 1
+      },
+      {
+        "label": "B L’innovation des procédés de production",
+        "value": 2
+      },
+      {
+        "label": "C Le développement du commerce équitable",
+        "value": 3
+      },
+      {
+        "label": "D Le partage d’expériences traditionnelles",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q29.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Une histoire d’amour splendide",
+        "value": 1
+      },
+      {
+        "label": "B Un amour entre deux retraités",
+        "value": 2
+      },
+      {
+        "label": "C Un homme mal aimé par sa femme",
+        "value": 3
+      },
+      {
+        "label": "D Un couple qui ne s’aime plus",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q30.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A En diversifiant sa politique linguistique",
+        "value": 1
+      },
+      {
+        "label": "B En modernisant son enseignement",
+        "value": 2
+      },
+      {
+        "label": "C En s’enrichissant de tous types d’apports",
+        "value": 3
+      },
+      {
+        "label": "D En valorisant les particularités régionales",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q31.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il est indispensable de savoir s’en servir correctement",
+        "value": 1
+      },
+      {
+        "label": "B Il faut éviter de les utiliser dans le cadre scolaire",
+        "value": 2
+      },
+      {
+        "label": "C Ils représentent un danger pour les libertés individuelles",
+        "value": 3
+      },
+      {
+        "label": "D Ils sont incontournables en tant qu’outils d’enseignement",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q32.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle devrait être réformée de fond en comble",
+        "value": 1
+      },
+      {
+        "label": "B Elle est parsemée de prescriptions irrationnelles",
+        "value": 2
+      },
+      {
+        "label": "C Elle répond à certaines règles compréhensibles",
+        "value": 3
+      },
+      {
+        "label": "D Elle se maîtrise par des exercices de mémorisation",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q-33-000.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La description du personnage",
+        "value": 1
+      },
+      {
+        "label": "B La longueur du texte",
+        "value": 2
+      },
+      {
+        "label": "C La qualité de l’écriture",
+        "value": 3
+      },
+      {
+        "label": "D Le déroulement des événements",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q34.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De laisser trop de temps à l’oisiveté",
+        "value": 1
+      },
+      {
+        "label": "B De s’écarter du modèle éducatif légal",
+        "value": 2
+      },
+      {
+        "label": "C De satisfaire avant tous les adultes",
+        "value": 3
+      },
+      {
+        "label": "D D’être à l’origine de l’échec scolaire",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q35.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Les acheteurs opposés au téléchargement illégal",
+        "value": 1
+      },
+      {
+        "label": "B Les amateurs de subtilité et de raffinement musical",
+        "value": 2
+      },
+      {
+        "label": "C Les admirateurs inconditionnels de l’interprète",
+        "value": 3
+      },
+      {
+        "label": "D Les curieux en mal de musique expérimentale",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q36.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Attirer davantage d’étudiants brillants",
+        "value": 1
+      },
+      {
+        "label": "B Être à la pointe de la technologie",
+        "value": 2
+      },
+      {
+        "label": "C Ouvrir ses cours à un public élargi",
+        "value": 3
+      },
+      {
+        "label": "D Proposer des disciplines inédites",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q37.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Embaucher des parents défavorisés",
+        "value": 1
+      },
+      {
+        "label": "B Faciliter l’intégration professionnelle",
+        "value": 2
+      },
+      {
+        "label": "C Proposer des tarifs préférentiels en crèche",
+        "value": 3
+      },
+      {
+        "label": "D Trouver un accueil provisoire pour les enfants",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q38.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il constitue une création artistique novatrice",
+        "value": 1
+      },
+      {
+        "label": "B Il établit des ponts avec d’autres auteurs",
+        "value": 2
+      },
+      {
+        "label": "C Il fait connaître les travaux d’un écrivain",
+        "value": 3
+      },
+      {
+        "label": "D Il ouvre la voie à de prochaines réalisations",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/04/compréhension-écrite-test-7-Q39.png",
+    "mp3_url": "",
+    "title": ""
+  }
+]

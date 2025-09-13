@@ -1,0 +1,938 @@
+[
+  {
+    "answer_items": [
+      {
+        "label": "A Pour lui demander d’être sa femme",
+        "value": 1
+      },
+      {
+        "label": "B Pour lui donner du courage",
+        "value": 2
+      },
+      {
+        "label": "C Pour lui offrir un emploi",
+        "value": 3
+      },
+      {
+        "label": "D Pour lui proposer un voyage",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q1.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A À la maison",
+        "value": 1
+      },
+      {
+        "label": "B À l’hôpital",
+        "value": 2
+      },
+      {
+        "label": "C À l’hôtel",
+        "value": 3
+      },
+      {
+        "label": "D Au bureau",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q2.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’échanger des livres",
+        "value": 1
+      },
+      {
+        "label": "B De donner des cadeaux",
+        "value": 2
+      },
+      {
+        "label": "C De réparer des jouets",
+        "value": 3
+      },
+      {
+        "label": "D De vendre des vêtements",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q3.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Comment envoyer un don aux conducteurs",
+        "value": 1
+      },
+      {
+        "label": "B Comment faire un paiement en ligne.",
+        "value": 2
+      },
+      {
+        "label": "C Comment modifier un forfait de transport",
+        "value": 3
+      },
+      {
+        "label": "D Comment récupérer de l’argent",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q4.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’Internet",
+        "value": 1
+      },
+      {
+        "label": "B La presse",
+        "value": 2
+      },
+      {
+        "label": "C La radio",
+        "value": 3
+      },
+      {
+        "label": "D La télévision",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q5.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Aller à un anniversaire",
+        "value": 1
+      },
+      {
+        "label": "B Diner avec son amie",
+        "value": 2
+      },
+      {
+        "label": "C Partir en week-end",
+        "value": 3
+      },
+      {
+        "label": "D Regarder des films",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q6.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De cuisiner tous ensemble",
+        "value": 1
+      },
+      {
+        "label": "B De faire un repas entre voisins",
+        "value": 2
+      },
+      {
+        "label": "C De s’inscrire à des activités",
+        "value": 3
+      },
+      {
+        "label": "D De visiter de nouveaux logements",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q7.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Un événement à la mairie",
+        "value": 1
+      },
+      {
+        "label": "B Un séjour touristique à Berlin",
+        "value": 2
+      },
+      {
+        "label": "C Une compétition artistique",
+        "value": 3
+      },
+      {
+        "label": "D Une formation à la musique",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q8.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Apporter des documents",
+        "value": 1
+      },
+      {
+        "label": "B Confirmer son inscription",
+        "value": 2
+      },
+      {
+        "label": "C Remplir un formulaire",
+        "value": 3
+      },
+      {
+        "label": "D Réserver un ordinateur",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q9.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Un paiement en ligne",
+        "value": 1
+      },
+      {
+        "label": "B Un remboursement immédiat",
+        "value": 2
+      },
+      {
+        "label": "C Une promotion spéciale",
+        "value": 3
+      },
+      {
+        "label": "D Une réponse à une réclamation",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q10.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Demander une information",
+        "value": 1
+      },
+      {
+        "label": "B Enseigner une langue",
+        "value": 2
+      },
+      {
+        "label": "C Étudier l’anglais",
+        "value": 3
+      },
+      {
+        "label": "D Partir en voyage",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q11.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’assister à un concert à Rouen",
+        "value": 1
+      },
+      {
+        "label": "B De devenir membre de l’orchestre municipal",
+        "value": 2
+      },
+      {
+        "label": "C De suivre des cours de musique à la rentrée",
+        "value": 3
+      },
+      {
+        "label": "D De visiter le conservatoire",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q12.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’une banque pour les mineurs",
+        "value": 1
+      },
+      {
+        "label": "B D’une idée nouvelle de recyclage",
+        "value": 2
+      },
+      {
+        "label": "C Des enfants qui doivent travailler",
+        "value": 3
+      },
+      {
+        "label": "D Du problème créé par les déchets",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q13.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De nouveaux horaires",
+        "value": 1
+      },
+      {
+        "label": "B De nouveaux tarifs",
+        "value": 2
+      },
+      {
+        "label": "C Un nouveau site Internet",
+        "value": 3
+      },
+      {
+        "label": "D Une nouvelle adresse",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q14.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Acheter des produits bon marché",
+        "value": 1
+      },
+      {
+        "label": "B Admirer des collections rares",
+        "value": 2
+      },
+      {
+        "label": "C Obtenir des articles variés",
+        "value": 3
+      },
+      {
+        "label": "D Rencontrer des artisans d’art",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q15.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De développer des projets collectifs pour la ville",
+        "value": 1
+      },
+      {
+        "label": "B De donner un avis sur les nouveaux bâtiments",
+        "value": 2
+      },
+      {
+        "label": "C De participer à des débats sur l’environnement",
+        "value": 3
+      },
+      {
+        "label": "D De visiter des expositions dans des lieux insolites",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q16.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De découvrir un parc d’animation",
+        "value": 1
+      },
+      {
+        "label": "B De gagner un séjour en famille",
+        "value": 2
+      },
+      {
+        "label": "C De se promener dans une ferme",
+        "value": 3
+      },
+      {
+        "label": "D De visiter une grande exposition",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q17.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A  Communiquer une adresse",
+        "value": 1
+      },
+      {
+        "label": "B Demander un justificatif",
+        "value": 2
+      },
+      {
+        "label": "C Proposer une assurance",
+        "value": 3
+      },
+      {
+        "label": "D Réclamer un paiement",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q18.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Créer des lieux d’échanges culturels",
+        "value": 1
+      },
+      {
+        "label": "B Développer la formation continue",
+        "value": 2
+      },
+      {
+        "label": "C Favoriser la mobilité professionnelle",
+        "value": 3
+      },
+      {
+        "label": "D Standardiser les programmes scolaires",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q19.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’adaptation de l’offre culinaire à la mode actuelle",
+        "value": 1
+      },
+      {
+        "label": "B La baisse de la qualité des établissements",
+        "value": 2
+      },
+      {
+        "label": "C La disparition graduelle de la cuisine traditionnelle",
+        "value": 3
+      },
+      {
+        "label": "D L’hostilité des critiques spécialisés locaux",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q20.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Le remboursement de son article",
+        "value": 1
+      },
+      {
+        "label": "B L’échange de son téléphone",
+        "value": 2
+      },
+      {
+        "label": "C L’envoi de son téléphone par la poste",
+        "value": 3
+      },
+      {
+        "label": "D Une réclamation sur son achat",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q21.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A C’est un phénomène mondial",
+        "value": 1
+      },
+      {
+        "label": "B Il influence la productivité des salariés",
+        "value": 2
+      },
+      {
+        "label": "C On peut facilement le repérer",
+        "value": 3
+      },
+      {
+        "label": "D Ses effets sont néfastes pour l’emploi",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q22.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La multiplication des éclairages publics",
+        "value": 1
+      },
+      {
+        "label": "B La prolifération des insectes nocturnes",
+        "value": 2
+      },
+      {
+        "label": "C La suppression des supports publicitaires",
+        "value": 3
+      },
+      {
+        "label": "D Le montant élevé des frais d’électricité",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q23.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il est obligatoire sur les produits",
+        "value": 1
+      },
+      {
+        "label": "B Il facilite la lecture des étiquettes",
+        "value": 2
+      },
+      {
+        "label": "C II répond à une décision des fabricants",
+        "value": 3
+      },
+      {
+        "label": "D II transforme l’organisation des rayons",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q24.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils allègent la tâche du personnel de cantine",
+        "value": 1
+      },
+      {
+        "label": "B Ils attendent le repas avec impatience",
+        "value": 2
+      },
+      {
+        "label": "C Ils servent d’exemple aux élèves plus âgés",
+        "value": 3
+      },
+      {
+        "label": "D  Ils incitent leur entourage à les imiter",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q25.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle concerne une poignée de militants",
+        "value": 1
+      },
+      {
+        "label": "B Elle consolide le système en place",
+        "value": 2
+      },
+      {
+        "label": "C Elle répond aux tendances actuelles",
+        "value": 3
+      },
+      {
+        "label": "D Elle résulte de difficultés économiques",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q26.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Des librairies menacent de fermer boutique",
+        "value": 1
+      },
+      {
+        "label": "B La qualité des livres publiés est catastrophique",
+        "value": 2
+      },
+      {
+        "label": "C Le nombre d’ouvrages à paraître a diminué",
+        "value": 3
+      },
+      {
+        "label": "D Un éditeur refuse de participer à cette tradition",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q27.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La mise en œuvre d’une action collective",
+        "value": 1
+      },
+      {
+        "label": "B La mission des organisations professionnelles",
+        "value": 2
+      },
+      {
+        "label": "C Le contenu des revendications présentées",
+        "value": 3
+      },
+      {
+        "label": "D Les orientations pédagogiques à soutenir",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q28.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Les changements de climat",
+        "value": 1
+      },
+      {
+        "label": "B Les méthodes de culture",
+        "value": 2
+      },
+      {
+        "label": "C Les oiseaux prédateurs",
+        "value": 3
+      },
+      {
+        "label": "D Les politiques publiques",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q29.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils changent d’apparence en cas de danger",
+        "value": 1
+      },
+      {
+        "label": "B Ils produisent une substance chimique nocive",
+        "value": 2
+      },
+      {
+        "label": "C Ils se déplacent principalement en groupe",
+        "value": 3
+      },
+      {
+        "label": "D Ils sont capables de se reconnaître entre eux",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q30.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils bouleversent les rapports d’autorité",
+        "value": 1
+      },
+      {
+        "label": "B Ils évitent les postes à responsabilité",
+        "value": 2
+      },
+      {
+        "label": "C Ils sont moins motivés que leurs ainés",
+        "value": 3
+      },
+      {
+        "label": "D Ils tiennent à la stabilité de l’emploi",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q31.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il favorise un enrichissement lexical",
+        "value": 1
+      },
+      {
+        "label": "B Il incite à entreprendre des voyages",
+        "value": 2
+      },
+      {
+        "label": "C Il met à jour un enfermement ignoré",
+        "value": 3
+      },
+      {
+        "label": "D Il permet d’élargir son réseau social",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q32.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La difficulté d’accéder au sens",
+        "value": 1
+      },
+      {
+        "label": "B La pression exercée par la famille",
+        "value": 2
+      },
+      {
+        "label": "C Les méthodes d’enseignement",
+        "value": 3
+      },
+      {
+        "label": "D Les moqueries de leurs camarades",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q33.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La pénurie de logement liée à la présence des touristes",
+        "value": 1
+      },
+      {
+        "label": "B L’avidité financière des acteurs du secteur touristique",
+        "value": 2
+      },
+      {
+        "label": "C Le mépris des touristes pour les considérations écologiques",
+        "value": 3
+      },
+      {
+        "label": "D L’exclusion des classes populaires des activités touristiques",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q34.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle a été adaptée pour la télévision",
+        "value": 1
+      },
+      {
+        "label": "B Elle s’inspire de la vie des jeunes",
+        "value": 2
+      },
+      {
+        "label": "C La clé de l’énigme sera éditée plus tard",
+        "value": 3
+      },
+      {
+        "label": "D L’auteur a imaginé différents scénarios",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q35.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle cherche à les identifier sur Internet",
+        "value": 1
+      },
+      {
+        "label": "B Elle en explique les origines historiques",
+        "value": 2
+      },
+      {
+        "label": "C Elle interviewe les personnes qui les propagent",
+        "value": 3
+      },
+      {
+        "label": "D Elle montre leur importance chez les adolescents",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q36.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il analyse l’établissement d’une dynastie royale",
+        "value": 1
+      },
+      {
+        "label": "B Il explique l’origine d’une légende médiévale",
+        "value": 2
+      },
+      {
+        "label": "C Il explore la construction identitaire des Français",
+        "value": 3
+      },
+      {
+        "label": "D Il renforce le mythe de la bataille de Bouvines",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q37.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’évolution des aptitudes mentales",
+        "value": 1
+      },
+      {
+        "label": "B La mondialisation de la recherche scientifique",
+        "value": 2
+      },
+      {
+        "label": "C La transformation des savoirs fondamentaux",
+        "value": 3
+      },
+      {
+        "label": "D Le maintien du patrimoine culturel",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q38.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elles diminuent dans toutes les organisations",
+        "value": 1
+      },
+      {
+        "label": "B Elles résultent du fonctionnement d’une société",
+        "value": 2
+      },
+      {
+        "label": "C Elles se combattent mieux avec de la sincénté",
+        "value": 3
+      },
+      {
+        "label": "D Elles se justifient par des arguments fallacieux",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2024/05/35q39.png",
+    "mp3_url": "",
+    "title": ""
+  }
+]

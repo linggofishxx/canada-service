@@ -1,0 +1,938 @@
+[
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16q1.jpg",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/CO15Q01.mp3?_=1",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16q2.jpg",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/CO15Q02.mp3?_=2",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q3.mp3?_=3",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q4.mp3?_=4",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q5.mp3?_=5",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q6.mp3?_=6",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A",
+        "value": 1
+      },
+      {
+        "label": "B",
+        "value": 2
+      },
+      {
+        "label": "C",
+        "value": 3
+      },
+      {
+        "label": "D",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q7.mp3?_=7",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle doit quitter son logement.",
+        "value": 1
+      },
+      {
+        "label": "B Il y a des travaux chez elle.",
+        "value": 2
+      },
+      {
+        "label": "C Le loyer est devenu trop cher.",
+        "value": 3
+      },
+      {
+        "label": "D Sa colocataire est partie.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q8.mp3?_=8",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Chercher un travail en France.",
+        "value": 1
+      },
+      {
+        "label": "B Obtenir une bourse d’études.",
+        "value": 2
+      },
+      {
+        "label": "C Suivre des cours à l’université.",
+        "value": 3
+      },
+      {
+        "label": "D Trouver un appartement à Marseille.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q9.mp3?_=9",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle est pressée.",
+        "value": 1
+      },
+      {
+        "label": "B Elle est végétarienne.",
+        "value": 2
+      },
+      {
+        "label": "C Elle fait le régime.",
+        "value": 3
+      },
+      {
+        "label": "D Elle manque d’appétit.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q10.mp3?_=10",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Changer de propriétaire.",
+        "value": 1
+      },
+      {
+        "label": "B Louer un appartement.",
+        "value": 2
+      },
+      {
+        "label": "C Partager un logement.",
+        "value": 3
+      },
+      {
+        "label": "D Partir vivre à l’étranger.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q11.mp3?_=11",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De leur voyage en Angleterre.",
+        "value": 1
+      },
+      {
+        "label": "B Des résultats des examens.",
+        "value": 2
+      },
+      {
+        "label": "C Du cout de la vie en ville.",
+        "value": 3
+      },
+      {
+        "label": "D D’un séjour linguistique.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q12.mp3?_=12",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’aller dans un bar.",
+        "value": 1
+      },
+      {
+        "label": "B De faire les courses.",
+        "value": 2
+      },
+      {
+        "label": "C De préparer un voyage.",
+        "value": 3
+      },
+      {
+        "label": "D De travailler ensemble.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2022/11/11Q13.mp3?_=13",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’enfant est malade à cause des chats.",
+        "value": 1
+      },
+      {
+        "label": "B La famille a déjà eu un chien.",
+        "value": 2
+      },
+      {
+        "label": "C Le père déteste les animaux.",
+        "value": 3
+      },
+      {
+        "label": "D Les parents ont beaucoup de travail.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q14.mp3?_=14",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Une chambre d’hôtel.",
+        "value": 1
+      },
+      {
+        "label": "B Une maison individuelle.",
+        "value": 2
+      },
+      {
+        "label": "C Un grand appartement.",
+        "value": 3
+      },
+      {
+        "label": "D Un studio en ville.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q15.mp3?_=15",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A À quel moment il pourra poser des congés.",
+        "value": 1
+      },
+      {
+        "label": "B Dans quelle ville il devra partir en mission.",
+        "value": 2
+      },
+      {
+        "label": "C Qui sera de permanence au mois d’aout.",
+        "value": 3
+      },
+      {
+        "label": "D S’il sera autorisé à suivre un stage en été.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q16.mp3?_=16",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Confirmer la date d’un entretien d’embauche.",
+        "value": 1
+      },
+      {
+        "label": "B Se renseigner sur les conditions de travail.",
+        "value": 2
+      },
+      {
+        "label": "C S’informer sur une formation professionnelle.",
+        "value": 3
+      },
+      {
+        "label": "D Vérifier si un courrier est bien arrivé.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q17.mp3?_=17",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A  Elle accueille une main-d’œuvre ciblée.",
+        "value": 1
+      },
+      {
+        "label": "B Elle bénéficie d’une situation géographique privilégiée.",
+        "value": 2
+      },
+      {
+        "label": "C Elle est la destination d’une population migrante jeune.",
+        "value": 3
+      },
+      {
+        "label": "D Elle pratique une politique nataliste très attractive.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q18.mp3?_=18",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’une négociation par visioconférence.",
+        "value": 1
+      },
+      {
+        "label": "B De l’urgence des dossiers à traité.",
+        "value": 2
+      },
+      {
+        "label": "C Des avantages du travail à distance.",
+        "value": 3
+      },
+      {
+        "label": "D Des problèmes fréquents de transports.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q19.mp3?_=19",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Interviewer un réalisateur.",
+        "value": 1
+      },
+      {
+        "label": "B Participer à un festival.",
+        "value": 2
+      },
+      {
+        "label": "C Tourner un film.",
+        "value": 3
+      },
+      {
+        "label": "D Visiter des studios de cinéma.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q20.mp3?_=20",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A C’est un artiste oublié par le public.",
+        "value": 1
+      },
+      {
+        "label": "B Il a travaillé avec des couleurs claires.",
+        "value": 2
+      },
+      {
+        "label": "C On lui a demandé de décorer un bâtiment.",
+        "value": 3
+      },
+      {
+        "label": "D Son œuvre est présentée en France.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q21.mp3?_=21",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Parce qu’ils ont été scolarisés dans des lycées plurilingues.",
+        "value": 1
+      },
+      {
+        "label": "B Parce qu’ils ont été adoptés dans des pays différents.",
+        "value": 2
+      },
+      {
+        "label": "C Parce qu’ils ont vécu dans de diverses zones de la France.",
+        "value": 3
+      },
+      {
+        "label": "D Parce qu’ils parlent plusieurs langues à la maison.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q22.mp3?_=22",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’attribuer à la lecture le statut de loisir.",
+        "value": 1
+      },
+      {
+        "label": "B De favoriser la lecture en automne.",
+        "value": 2
+      },
+      {
+        "label": "C De limiter la lecture d’histoires illustrées.",
+        "value": 3
+      },
+      {
+        "label": "D De sélectionner des lectures classiques.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q23.mp3?_=23",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle a beaucoup d’expérience.",
+        "value": 1
+      },
+      {
+        "label": "B Elle a vite appris son métier.",
+        "value": 2
+      },
+      {
+        "label": "C Elle aime prendre des risques.",
+        "value": 3
+      },
+      {
+        "label": "D Elle sait diriger ses collègues.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q24.mp3?_=24",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Le nombre d’étudiants inscrits a augmenté.",
+        "value": 1
+      },
+      {
+        "label": "B Les cursus sur l’environnement se sont multipliés.",
+        "value": 2
+      },
+      {
+        "label": "C Les enseignants font des carrières prestigieuses.",
+        "value": 3
+      },
+      {
+        "label": "D  Les formations sont devenues plus concrètes.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q25.mp3?_=25",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle construit des maisons pour les personnes âgées.",
+        "value": 1
+      },
+      {
+        "label": "B Elle organise des évènements rassemblant les générations.",
+        "value": 2
+      },
+      {
+        "label": "C Elle permet à des jeunes d’habiter chez des personnes âgées.",
+        "value": 3
+      },
+      {
+        "label": "D Elle valorise les professions d’assistance aux personnes âgées.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q26.mp3?_=26",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il est caractérisé par son rythme.",
+        "value": 1
+      },
+      {
+        "label": "B Il est protégé par des apports lexicaux varies.",
+        "value": 2
+      },
+      {
+        "label": "C Il est protégé par les académiciens.",
+        "value": 3
+      },
+      {
+        "label": "D Il est utilisé par une minorité de locuteurs.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q27.mp3?_=27",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La répartition des tâches dans le service.",
+        "value": 1
+      },
+      {
+        "label": "B Le manque d’expérience de l’équipe.",
+        "value": 2
+      },
+      {
+        "label": "C Le retard pris dans la réalisation d’un projet.",
+        "value": 3
+      },
+      {
+        "label": "D Les désaccords entre employeur et employés.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q28.mp3?_=28",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’un outil qui facilite l’apprentissage, quel que soit la discipline étudiée.",
+        "value": 1
+      },
+      {
+        "label": "B De la bonne méthode de révision d’un cours quand on est pris par le temps.",
+        "value": 2
+      },
+      {
+        "label": "C De la difficulté a rédigé des cours motivants pour les jeunes étudiants.",
+        "value": 3
+      },
+      {
+        "label": "D Des limites de l’enseignement à distance pour certaines disciplines.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q29.mp3?_=29",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’un appel à un projets imaginaires.",
+        "value": 1
+      },
+      {
+        "label": "B D’un examen de fin d’études.",
+        "value": 2
+      },
+      {
+        "label": "C D’un nouveau plan d’urbanisme.",
+        "value": 3
+      },
+      {
+        "label": "D D’une rénovation d’un monument.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q30.mp3?_=30",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle annonce de futures découvertes.",
+        "value": 1
+      },
+      {
+        "label": "B Elle confirme une théorie ancienne.",
+        "value": 2
+      },
+      {
+        "label": "C Elle illustre les progrès du matériel scientifiques.",
+        "value": 3
+      },
+      {
+        "label": "D Elle permet la poursuite des travaux d’Einstein.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q31.mp3?_=31",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La conférence qui a eu lieu est uniquement symbolique.",
+        "value": 1
+      },
+      {
+        "label": "B La secrétaire d’État a fait part de son pessimisme.",
+        "value": 2
+      },
+      {
+        "label": "C Les discussions s’annoncent longues et difficiles.",
+        "value": 3
+      },
+      {
+        "label": "D Tous les points de l’accord ont déjà été traités sans succès.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q32.mp3?_=32",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A C’est la reproduction d’un café du siècle dernier.",
+        "value": 1
+      },
+      {
+        "label": "B Il contient un dépôt-vente de meubles design.",
+        "value": 2
+      },
+      {
+        "label": "C C’est à la fois un restaurant et une galerie d’art.",
+        "value": 3
+      },
+      {
+        "label": "D Il y organise un festival de musique électronique.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q33.mp3?_=33",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Une littérature axée sur les débats avec le public.",
+        "value": 1
+      },
+      {
+        "label": "B Une littérature expérimentée à travers le jeu.",
+        "value": 2
+      },
+      {
+        "label": "C Une littérature interprétée par les comédiens.",
+        "value": 3
+      },
+      {
+        "label": "D Une littérature portée sur l’interdisciplinarité.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q34.mp3?_=34",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Allonger la durée de vie des smartphones.",
+        "value": 1
+      },
+      {
+        "label": "B Evaluer la consommation téléphonique.",
+        "value": 2
+      },
+      {
+        "label": "C Gérer le temps de connexion à internet.",
+        "value": 3
+      },
+      {
+        "label": "D Optimiser l’utilisation des appareils.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q35.mp3?_=35",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Des partitions musicales ponctuent les chapitres.",
+        "value": 1
+      },
+      {
+        "label": "B Elle réunit des textes de musiciens sur le thème de la peur.",
+        "value": 2
+      },
+      {
+        "label": "C L’éditeur a choisi d’accompagner le livre d’un DVD.",
+        "value": 3
+      },
+      {
+        "label": "D Sa mise en page est comparable à celle du livret d’un disque.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q36.mp3?_=36",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De consulter un médecin psychothérapeute.",
+        "value": 1
+      },
+      {
+        "label": "B Pour limiter la naissance des automobiles.",
+        "value": 2
+      },
+      {
+        "label": "C De prescrire un traitement médicamenteux.",
+        "value": 3
+      },
+      {
+        "label": "D D’informer les utilisateurs sur leurs dangers.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q37.mp3?_=37",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Un durcissement des politiques relatives à la consommation.",
+        "value": 1
+      },
+      {
+        "label": "B Un renforcement des pouvoirs de la Commission européenne.",
+        "value": 2
+      },
+      {
+        "label": "C Une homogénéisation des règlementations internationales.",
+        "value": 3
+      },
+      {
+        "label": "D Une législation dans le respect de la singularité des États.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q38.mp3?_=38",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Le processus d’attractivité des cellules femelles.",
+        "value": 1
+      },
+      {
+        "label": "B Les différences avec la reproduction des plantes terrestres.",
+        "value": 2
+      },
+      {
+        "label": "C La constitution de certains organismes aquatiques.",
+        "value": 3
+      },
+      {
+        "label": "D L’influence de la météorologie sur leur fécondation.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "",
+    "mp3_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/01/16Q39.mp3?_=39",
+    "title": ""
+  }
+]

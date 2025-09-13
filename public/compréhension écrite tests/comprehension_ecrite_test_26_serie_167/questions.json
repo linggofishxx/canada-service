@@ -1,0 +1,938 @@
+[
+  {
+    "answer_items": [
+      {
+        "label": "A Un dessert.",
+        "value": 1
+      },
+      {
+        "label": "B Une entrée.",
+        "value": 2
+      },
+      {
+        "label": "C Une salade.",
+        "value": 3
+      },
+      {
+        "label": "D Une soupe.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q1.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A A Ils ont besoin de l’aide de leur famille.",
+        "value": 1
+      },
+      {
+        "label": "B Ils travaillent pour payer leur logement.",
+        "value": 2
+      },
+      {
+        "label": "C Ils veulent finir leurs études rapidement.",
+        "value": 3
+      },
+      {
+        "label": "D Ils vont à l’université dans une autre ville.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/226q2.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Un changement de lieu.",
+        "value": 1
+      },
+      {
+        "label": "B Un nouvel horaire.",
+        "value": 2
+      },
+      {
+        "label": "C Une absence de professeur.",
+        "value": 3
+      },
+      {
+        "label": "D Une rencontre entre étudiants.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/226q3.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’aller à un concert.",
+        "value": 1
+      },
+      {
+        "label": "B D’organiser un voyage.",
+        "value": 2
+      },
+      {
+        "label": "C De déjeuner chez lui.",
+        "value": 3
+      },
+      {
+        "label": "D De garder ses enfants.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/226q4.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Avoir un bébé.",
+        "value": 1
+      },
+      {
+        "label": "B Déménager en France.",
+        "value": 2
+      },
+      {
+        "label": "C Jouer au cinéma.",
+        "value": 3
+      },
+      {
+        "label": "D Organiser une exposition.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/226q5.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De préparer un voyage.",
+        "value": 1
+      },
+      {
+        "label": "B De regarder un spectacle.",
+        "value": 2
+      },
+      {
+        "label": "C De venir à une réunion.",
+        "value": 3
+      },
+      {
+        "label": "D De visiter une classe.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q6.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Beaux.",
+        "value": 1
+      },
+      {
+        "label": "B Calmes.",
+        "value": 2
+      },
+      {
+        "label": "C Courageux.",
+        "value": 3
+      },
+      {
+        "label": "D Joyeux.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q7.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Un salon des entrepreneurs",
+        "value": 1
+      },
+      {
+        "label": "B Une compétition sportive",
+        "value": 2
+      },
+      {
+        "label": "C Une conférence sur le chômage",
+        "value": 3
+      },
+      {
+        "label": "D Une manifestation sociale.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q8.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’acheter des plantes à bon prix.",
+        "value": 1
+      },
+      {
+        "label": "B De faire des courses en ligne.",
+        "value": 2
+      },
+      {
+        "label": "C De participer à un concours.",
+        "value": 3
+      },
+      {
+        "label": "D De recevoir des outils gratuits.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q9.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Participer à un stage de plusieurs jours.",
+        "value": 1
+      },
+      {
+        "label": "B S’informer sur le monde professionnel.",
+        "value": 2
+      },
+      {
+        "label": "C S’inscrire à un cours réservé aux jeunes.",
+        "value": 3
+      },
+      {
+        "label": "D Trouver de l’aide pour écrire un CV.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q10.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Acheter des articles de bureau.",
+        "value": 1
+      },
+      {
+        "label": "B Commander une imprimante.",
+        "value": 2
+      },
+      {
+        "label": "C Demander de l’encre et du papier.",
+        "value": 3
+      },
+      {
+        "label": "D Lister leurs besoins de matériel.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q11.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils ont été invités à une fête en ville",
+        "value": 1
+      },
+      {
+        "label": "B Ils ont eu une coupure d’Internet.",
+        "value": 2
+      },
+      {
+        "label": "C Ils ont fait le plein à très bas prix.",
+        "value": 3
+      },
+      {
+        "label": "D Ils ont pu téléphoner gratuitement.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q12.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Pour éviter de tomber malades.",
+        "value": 1
+      },
+      {
+        "label": "B Pour profiter de tarifs avantageux.",
+        "value": 2
+      },
+      {
+        "label": "C Pour protéger l’environnement.",
+        "value": 3
+      },
+      {
+        "label": "D Pour soutenir les paysans locaux.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q13.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Demander des informations sur des produits.",
+        "value": 1
+      },
+      {
+        "label": "B Passer une commande de produits.",
+        "value": 2
+      },
+      {
+        "label": "C Présenter de nouveaux produits.",
+        "value": 3
+      },
+      {
+        "label": "D Proposer une dégustation de produit.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q14.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Aller dans un bar.",
+        "value": 1
+      },
+      {
+        "label": "B Assister à un spectacle.",
+        "value": 2
+      },
+      {
+        "label": "C Dîner au restaurant.",
+        "value": 3
+      },
+      {
+        "label": "D Voir une pièce de théâtre.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q15.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De développer des projets collectifs pour la ville.",
+        "value": 1
+      },
+      {
+        "label": "B De donner un avis sur les nouveaux bâtiments.",
+        "value": 2
+      },
+      {
+        "label": "C De participer à des débats sur l’environnement.",
+        "value": 3
+      },
+      {
+        "label": "D De visiter des expositions dans des lieux insolites.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q16.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Baisser les salaires.",
+        "value": 1
+      },
+      {
+        "label": "B Créer des emplois.",
+        "value": 2
+      },
+      {
+        "label": "C Diviser le travail.",
+        "value": 3
+      },
+      {
+        "label": "D Favoriser la recherche.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q17.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il encourage les initiatives.",
+        "value": 1
+      },
+      {
+        "label": "B Il favorise le rendement au travail.",
+        "value": 2
+      },
+      {
+        "label": "C Il permet d’être plus détendu.",
+        "value": 3
+      },
+      {
+        "label": "D Il rend les gens plus cultivés.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q18.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A C’est un succès.",
+        "value": 1
+      },
+      {
+        "label": "B Elle changera de lieu.",
+        "value": 2
+      },
+      {
+        "label": "C Elle est déjà finie.",
+        "value": 3
+      },
+      {
+        "label": "D L’entrée est gratuite.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q19.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il cite un extrait d’une œuvre de Modiano.",
+        "value": 1
+      },
+      {
+        "label": "B Il explique l’idée de départ d’un livre de Modiano.",
+        "value": 2
+      },
+      {
+        "label": "C Il présente le métier de Modiano à ses débuts.",
+        "value": 3
+      },
+      {
+        "label": "D Il raconte la rencontre entre Modiano et sa femme.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q20.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La priorité donnée à l’aspect écologique.",
+        "value": 1
+      },
+      {
+        "label": "B La prise en compte de l’opinion publique.",
+        "value": 2
+      },
+      {
+        "label": "C Le caractère provisoire de l’installation.",
+        "value": 3
+      },
+      {
+        "label": "D Le choix des matériaux de fabrication.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q21.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils éloignent les jeunes du monde des adultes.",
+        "value": 1
+      },
+      {
+        "label": "B Ils entraînent des comportements de type addictif.",
+        "value": 2
+      },
+      {
+        "label": "C Ils ont tendance à couper les adolescents du réel.",
+        "value": 3
+      },
+      {
+        "label": "D Ils peuvent être utilisés comme outils de contrôle.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q22.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A D’élargir leurs perspectives professionnelles.",
+        "value": 1
+      },
+      {
+        "label": "B D’évaluer les possibilités d’évolution de leur carrière.",
+        "value": 2
+      },
+      {
+        "label": "C De faire un bilan de leurs aptitudes.",
+        "value": 3
+      },
+      {
+        "label": "D De privilégier leur épanouissement personnel.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q23.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils élaborent de nouvelles techniques.",
+        "value": 1
+      },
+      {
+        "label": "B Ils emploient des procédés traditionnels.",
+        "value": 2
+      },
+      {
+        "label": "C Ils intègrent l’ancien à leurs constructions.",
+        "value": 3
+      },
+      {
+        "label": "D Ils restaurent à l’identique de vieux édifices.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q24.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Les courses représentent pour les ménages un budget en augmentation.",
+        "value": 1
+      },
+      {
+        "label": "B Les grandes surfaces provoquent la fin des petites boutiques de quartier.",
+        "value": 2
+      },
+      {
+        "label": "C Les prix pratiqués par la grande distribution défient toute concurrence.",
+        "value": 3
+      },
+      {
+        "label": "D  Les relations de voisinage deviennent anonymes et dénuées de politesse.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q25.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A De l’éducation des plus jeunes.",
+        "value": 1
+      },
+      {
+        "label": "B De la transmission d’un savoir-faire.",
+        "value": 2
+      },
+      {
+        "label": "C De la volanté d’émancipation.",
+        "value": 3
+      },
+      {
+        "label": "D Du rapport entre les générations.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q26.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Il déconseille au grand public de les adopter.",
+        "value": 1
+      },
+      {
+        "label": "B Il estime qu’elles sont insuffisamment promues.",
+        "value": 2
+      },
+      {
+        "label": "C Il remet en question leurs retombées positives.",
+        "value": 3
+      },
+      {
+        "label": "D Il révèle qu’elles contribuent au déclin industriel.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q27.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La constitution d’une culture nationale.",
+        "value": 1
+      },
+      {
+        "label": "B La stimulation de la croissance économique.",
+        "value": 2
+      },
+      {
+        "label": "C L’amélioration des comportements sanitaires.",
+        "value": 3
+      },
+      {
+        "label": "D Le développement d’une conscience civique.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q28.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Faire évoluer les mentalités au sujet du handicap au travail.",
+        "value": 1
+      },
+      {
+        "label": "B Permettre de modifier la législation sur le handicap au travail.",
+        "value": 2
+      },
+      {
+        "label": "C Recenser les discriminations dont sont victimes les handicapés.",
+        "value": 3
+      },
+      {
+        "label": "D Subventionner les entreprises qui recrutent des handicapés.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q29.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ce sont les violons récents qui sont les plus estimés.",
+        "value": 1
+      },
+      {
+        "label": "B Il est difficile de maîtriser les violons anciens.",
+        "value": 2
+      },
+      {
+        "label": "C La qualité des violons évolue avec le temps.",
+        "value": 3
+      },
+      {
+        "label": "D Voir le violon modifier l’appréciation de l’auditeur.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q30.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A La multiplication des nuisances sonores sur la commune.",
+        "value": 1
+      },
+      {
+        "label": "B L’accroissement du taux de chômage de ses administrés.",
+        "value": 2
+      },
+      {
+        "label": "C L’agrandissement de l’espace consacré aux spectacles",
+        "value": 3
+      },
+      {
+        "label": "D L’augmentation du prix des entrées pour les spectateurs.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q31.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils apprennent à être patients.",
+        "value": 1
+      },
+      {
+        "label": "B Ils évoluent selon l’ancienneté.",
+        "value": 2
+      },
+      {
+        "label": "C Ils saisissent toutes les occasions.",
+        "value": 3
+      },
+      {
+        "label": "D Ils tâchent de conserver leur emploi.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q32.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Des méthodes innovantes sur l’usage des TIC.",
+        "value": 1
+      },
+      {
+        "label": "B Des pistes de recherche sur l’apprentissage.",
+        "value": 2
+      },
+      {
+        "label": "C Un état des lieux des ressources pédagogiques.",
+        "value": 3
+      },
+      {
+        "label": "D Une analyse du contexte socio-éducatif actuel.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q33.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Sa structure est identique chez l’homme et l’animal.",
+        "value": 1
+      },
+      {
+        "label": "B Sa taille influe sur les compétences cognitives.",
+        "value": 2
+      },
+      {
+        "label": "C Son développement est ralenti les premiers mois.",
+        "value": 3
+      },
+      {
+        "label": "D Son fonctionnement est encore mystérieux.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q34.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Aborder des œuvres réputées difficiles avec leurs élèves.",
+        "value": 1
+      },
+      {
+        "label": "B Encourager leurs élèves à écrire des textes littéraires.",
+        "value": 2
+      },
+      {
+        "label": "C Inviter régulièrement des écrivains célèbres dans leur classe.",
+        "value": 3
+      },
+      {
+        "label": "D Monter des pièces de théâtre d’auteurs classiques.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q35.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Elle a été adaptée pour la télévision.",
+        "value": 1
+      },
+      {
+        "label": "B Elle s’inspire de la vie des jeunes.",
+        "value": 2
+      },
+      {
+        "label": "C La clé de l’énigme sera éditée plus tard.",
+        "value": 3
+      },
+      {
+        "label": "D L’auteur a imaginé différents scenarios.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q36.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Le coût social élevé de prise en charge des maladies génétiques.",
+        "value": 1
+      },
+      {
+        "label": "B Le développement de traitements curatifs de pathologies génétiques.",
+        "value": 2
+      },
+      {
+        "label": "C Le mode de financement de la recherche génétique fondamentale.",
+        "value": 3
+      },
+      {
+        "label": "D Les dérives induites par l’amélioration du patrimoine génétique.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q37.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A L’alternance entre le comique et le drame.",
+        "value": 1
+      },
+      {
+        "label": "B L’atmosphère énigmatique et inquiétante.",
+        "value": 2
+      },
+      {
+        "label": "C La présentation de particularités régionales.",
+        "value": 3
+      },
+      {
+        "label": "D L’émancipation des héros au cours du récit.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q38.png",
+    "mp3_url": "",
+    "title": ""
+  },
+  {
+    "answer_items": [
+      {
+        "label": "A Ils permettraient à des adolescents de renouer avec elle.",
+        "value": 1
+      },
+      {
+        "label": "B Ils pourraient servir à enseigner certaines disciplines.",
+        "value": 2
+      },
+      {
+        "label": "C Ils résoudraient des problèmes de violence en classe.",
+        "value": 3
+      },
+      {
+        "label": "D Ils seraient appropriés pour se détendre lors des pauses.",
+        "value": 4
+      }
+    ],
+    "image_desc": "",
+    "image_url": "https://examens.preptcfcanada.com/wp-content/uploads/2023/04/comprehension-ecrite26Q39.png",
+    "mp3_url": "",
+    "title": ""
+  }
+]
