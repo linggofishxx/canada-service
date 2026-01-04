@@ -18,10 +18,10 @@ import { Unit } from './units/unit.entity';
     }),
 
     // 静态资源：/public 对应 URL 前缀 /static
-    ServeStaticModule.forRoot({
+    /* ServeStaticModule.forRoot({
       rootPath: join(__dirname, '..', 'public'),
       serveRoot: '/static',
-    }),
+    }), */
     UnitsModule,
     QuestionsModule,
   ],

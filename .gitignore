@@ -2,6 +2,10 @@
 /dist
 /node_modules
 /build
+dist.*
+/dist-ncc
+dist-ncc.*
+public.*
 
 # Logs
 logs
