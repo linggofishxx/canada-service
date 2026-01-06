@@ -27,7 +27,11 @@ export class QuestionsService {
   async findByUnit(unitId: number): Promise<Question[]> {
     const unit = await this.unitRepo.findOne({ where: { id: unitId }, relations: ['questions'] });
     if (!unit) return [];
-    return unit.questions;
+    return unit.questions.sort((a: any, b: any) => {
+      const aNum = Number(a.replace(/\D/g, ''));
+      const bNum = Number(b.replace(/\D/g, ''));
+      return aNum - bNum;
+    });
   }
 
   /** 创建题目并关联单元 */
